@@ -1,0 +1,63 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "UX Design",
+      "meta_data": {
+      "description": "Using the product, the product manager can influence millions of customers. To get there, creating a great user experience is essential to build a competitive advantage for any business. This major will focus on UX design aspects, including different models that provide the best experience for varied customers using that product."
+      }
+    },
+    {
+      "title": "User Interface Design",
+      "meta_data": {
+      "description": "This major introduces the theory and practice of user interface design. Our emphasis will be on the design and guidelines, and principles to create high-quality user interfaces."
+      }
+    },
+    {
+      "title": "UI Evaluation",
+      "meta_data": {
+      "description": "This major deals with the evaluation of the user interface design by appraising the product's usability. We will review essential methods like Heuristics evaluation, user inputs, groups, surveys, and observations in the process."
+      }
+    },
+    {
+      "title": "UI Prototyping",
+      "meta_data": {
+      "description": "This major takes you through models associated with Prototyping the design effectively. We will also create mockups using LucidCharts that combines diagramming, data visualization, and collaboration. We will review ways to get real-time feedback from collaborators regardless of how complex or straightforward the design might be."
+      }
+    },
+    {
+      "title": "UI via FIGMA",
+      "meta_data": {
+      "description": "This major deals with using FIGMA as a prototyping tool to bring ideas to life via design, wireframe, or prototype. It takes you through some of the essential features covering content creation to design implementation and getting feedback from stakeholders."
+      }
+    },
+    {
+      "title": "PRDs",
+      "meta_data": {
+      "description": "This major takes you ways to build the product requirements document (PRD), which communicates the capabilities to be included across product releases to development and quality teams. At the same, the PRD serves as an artifact for any designer, developer, or stakeholder to understand the product's status and purpose."
+      }
+    },
+    {
+      "title": "MVP",
+      "meta_data": {
+      "description": "One of the effective ways of launching the product is to have customers start using the product. Based on feedback, the product can go through numerous iterations and achieve product-market fit much sooner. One such approach that we go through in this major is the minimum viable product (MVP), where customers will use the product with minimal features for validation purposes. "
+      }
+    },
+    {
+      "title": "Agile Product Leadership",
+      "meta_data": {
+      "description": "Product management is about guiding a product through multiple iterations while working with varied stakeholders. This major applies agile approaches to guide the dev team through cycles while maintaining the product vision and integrating customer insight along the way with utmost efficiency and effectiveness."
+      }
+    }
+  ],
+  "description": "<p>Product Management owns the complete end-to-end production process while working closely with different departments meeting business needs. As part of the program, we will focus on the product pathway to create, manage and iterate technology products. Unsurprisingly, product management is one of the most influential careers in the corporate world – Indeed, you'll be paid a lot.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Market Research",
+    "User Design",
+    "Analytics",
+    "Product Development and Planning",
+    "Engagement & Growth"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

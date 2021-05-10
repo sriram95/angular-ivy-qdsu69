@@ -1,0 +1,45 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Atomic Structure",
+      "meta_data": {
+      "description": "In this course, we will learn about what is atomic Structure, different types of atomic models, photoelectric effect, dual behavior of matter, Heisenberg's Uncertainty Principle, Quantum Numbers, and Angular Probability Distribution Curve."
+      }
+    },
+    {
+      "title": "Chemical Bonding",
+      "meta_data": {
+      "description": "A chemical bond is a lasting attraction between atoms, ions, or molecules that enables chemical compounds. The bond may result from the electrostatic force of attraction between oppositely charged ions as in ionic bonds or through the sharing of electrons as in covalent bonds. In this course, we will learn about Hybridization, Valence Bond Theory, Ionic Bond, Fajans Rule, and Hydrogen Bond."
+      }
+    },
+    {
+      "title": "States of Matter",
+      "meta_data": {
+      "description": "In this course, we will learn about the above matters followed by Boyle's Law, Inter and Intramolecular forces, Dalton's and Ideal Gas Equations, Charles Law, Van Der Waals Gas Equations, and Molecular Velocity."
+      }
+    },
+    {
+      "title": "Stoichiometry",
+      "meta_data": {
+      "description": "Stoichiometry is a section of chemistry that involves using relationships between reactants and/or products in a chemical reaction to determine desired quantitative data. In this course, we will learn about Mole Concepts, Redox Reaction Balancing, and so on."
+      }
+    },
+    {
+      "title": "Chemical Equilibrium",
+      "meta_data": {
+      "description": "Chemical equilibrium is a state in which the forward reaction rate equals the rate of the backward reaction. In other words, there is no net change in concentrations of reactants and products. This kind of equilibrium is also called dynamic equilibrium. In this course, we will learn about what is chemical equilibrium, its laws, and gaseous equations."
+      }
+    }
+  ],
+  "description": "<p>This major is about physical chemistry concepts that cover Thermodynamics, Chemical Kinetics, and Kinetic Molecular Theory. In our study of Thermodynamics (Thermodynamics comes from the Greek words for heat and power), we shall be looking at the first and second laws of Thermodynamics as they apply to volume-pressure processes and energy changes associated with chemical reactions. The topics in Chemical Kinetics will look at rate laws and factors affecting the rates of chemical reactions. In molecular kinetic theory, we shall explain the general behavior of gases from a molecular perspective..</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Thomson's & Rutherford's Atomic Model",
+    "Photoelectric Effect",
+    "Limiting Reagent",
+    "Dynamic Equilibrium Chemical Processes",
+    "Law of Chemical Equilibrium"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

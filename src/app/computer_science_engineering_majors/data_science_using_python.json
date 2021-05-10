@@ -1,0 +1,22 @@
+{
+  "amount": "7499",
+  "courses": [
+2363,
+2362,
+2361,
+2360,
+2359
+  ],
+  "description": "<p>Global production of data has been growing exponentially day by day. This data includes organized data like sale data and unorganized data like how users are behaving on a website. Besides these data, there is so much data available on the open web. Using this data helps us with making decisions, analyzing trends. This major introduces the concepts and techniques in Data Science while emphasizing more on using Python at different levels depending on factors like Size of Data, the insights we need to draw for both discrete and time-series data</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Introduction to Python",
+    "Introduction to Data Science",
+    "Pandas and Numpy",
+    "Dataframes",
+    "Mean and Median",
+    "Covariance",
+    "Time-Series Data"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

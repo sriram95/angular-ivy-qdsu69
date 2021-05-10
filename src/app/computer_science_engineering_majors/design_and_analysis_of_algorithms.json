@@ -1,0 +1,20 @@
+{
+  "amount": "7499",
+  "courses": [
+2398,
+2397,
+2396,
+2395,
+2394
+  ],
+  "description": "<p>Algorithms are fundamentals for any programming language. They help us with keeping track of the code and logic without having to deal with reading the whole program. It's not just that. Several widely accepted algorithms can solve almost all the programming problems we encounter. We will go through one such algorithm.This major offers the basic knowledge required to analyze the asymptotic performance of algorithms. In addition, this major provides the knowledge required to solve different problems using suitable design strategies such as the greedy method, divide and conquer, dynamic programming, backtracking and branch and bound. This major helps to understand the impact of the choice of data structures and algorithm design strategies on the performance. This major also provides the understanding of advanced graph applications and also throws light on tractable and intractable problems.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Understand Different Algorithmic Design",
+    "Apply Various Design Algorithms",
+    "Algorithm Efficiency",
+    "Design Strategy Investigation",
+    "New Algorithms Synthesization"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

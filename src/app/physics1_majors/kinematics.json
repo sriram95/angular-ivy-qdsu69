@@ -1,0 +1,24 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Motion in a straight line",
+      "meta_data": {
+      "description": "If an object changes its position concerning its surroundings with time, then it is called in motion. It is a change in the position of an object over time. Motion in a straight line is nothing but linear motion. As the name suggests, it's in an exceptionally straight line. Therefore, it can be said that it uses only one dimension."
+      }
+    },
+    {
+      "title": "Motion in a plane",
+      "meta_data": {
+      "description": "Motion in a plane refers to the point where we consider motion in two dimensions as only two dimensions make a plane. Considering the above, we take two axes into consideration – generally X-axis or Y – axes. To derive the equation of the motion in a plane, we must know about motion in one direction. In this course, we will deep-dive into the concept of  Motion in a plane."
+      }
+    }
+  ],
+  "description": "<p>Kinematics is the branch of classical mechanics that describes the motion of points, objects, and systems of groups of objects, without reference to the causes of motion (i.e., forces). The study of kinematics is often referred to as the geometry of motion. Objects are in motion all around us. In this major, we will discuss Motion in a straight line and Motion in a plane, followed by the next major, Laws of Motion.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Motion in a Straight Line",
+    "Motion in a Plane"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

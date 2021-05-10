@@ -1,0 +1,39 @@
+{
+  "amount": "7499",
+  "courses": [
+    {
+      "title": "Pre-Beginner Reading",
+      "meta_data": {
+        "description": "This course introduces students to basic reading skills with passages with an emphasis on lexical growth and comprehension of the main idea."
+      }
+    },
+    {
+      "title": "Beginner Reading",
+      "meta_data": {
+        "description": "<p> The reading section of the course focuses on building students’ capabilities students to articulate original insights and impressions regarding reading materials.</p>"
+      }
+    },
+    {
+      "title": "Intermediate Reading",
+      "meta_data": {
+        "description": "<p> The focus of this course is on improving comprehension, reading rate and strengthening vocabulary.</p>"
+      }
+    },
+    {
+      "title": "Advanced Reading",
+      "meta_data": {
+        "description": "On the reading front, the focus is on fostering student comprehension of increasingly advanced reading material, making thematic and philosophical connections across texts, and synthesizing elements of primary and secondary texts in authentic texts."
+      }
+    }
+  ],
+  "description": "<p>This major helps students to gain reading skills, gain vocabulary while comprehending advanced reading material with ease making thematic and philosophical connections across texts.</p> ",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Team Skills required to achieve career growth",
+    "Overview and introduction to Teams and Teamwork Processes",
+    "Team Process Improvement",
+    "Common Ways to Build Innovation within Teams",
+    "Innovation and Learning in Teams"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

@@ -1,0 +1,33 @@
+{
+  "amount": "7499",
+  "courses": [
+    {
+      "title": "Industry Research",
+      "meta_data": {
+        "description": "This course is designed for learners with no previous industry research experience. It teaches a comprehensive industry research approach that will help learners find and communicate the story in the data."
+      }
+    },
+    {
+      "title": "Processing and Problem solving",
+      "meta_data": {
+        "description": "<p> Many situations arise where you need to influence the behaviour or attitudes of managers, superiors, colleagues, customers, clients, suppliers and subordinates. Often, you either do not have or do not wish to use position power. You have to rely on influencing others through influencing, assertiveness, negotiation and empowering skills.</p> <p>This course enables you to develop all the skills necessary for all influence, persuasion and empowering situations to better equipped to manage situations.</p>"
+      }
+    },
+    {
+      "title": "Team Performance and Analysis",
+      "meta_data": {
+        "description": "<p> Teams are essential to the modern organization, but most never reach their potential. Co-workers miscommunicate, and groups struggle to adapt to changes in the market or their organizations. When teams lack self-awareness about these challenges, performance suffers. Based on years of team culture research and consulting experience, this course helps you understand the problems that hurt productivity, and gives you tools for creating positive change. This course also guides you through creating the ground rules and structure needed to set your team up for success.</p> <p>You gain the skills to diagnose issues such as conflicts, groupthink and lack of commitment in your team before they get out of control. The course offers frameworks to adjust team behaviors and get the best performance out of your people. You also understand frequent stumbling blocks for common team types, such as startups and virtual teams, and learn solutions tailored to each one.</p>"
+      }
+    }
+  ],
+  "description": "<p>This major will help you understand the industry research, identify various problem solving techniques and also pursue innovation in teams. </p> ",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Team Skills required to achieve career growth",
+    "Overview and introduction to Teams and Teamwork Processes",
+    "Team Process Improvement",
+    "Common Ways to Build Innovation within Teams",
+    "Innovation and Learning in Teams"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

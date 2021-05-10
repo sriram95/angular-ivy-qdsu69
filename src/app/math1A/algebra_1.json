@@ -1,0 +1,24 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Functions",
+      "meta_data": {
+      "description": "Functions relate inputs to outputs. Functions take elements from a set (the domain) and relate them to elements in a set (the codomain). All the outputs (the actual values related to) are together called the range. This course will teach functions, properties of functions, types of functions, applications of functions, and composite functions."
+      }
+    },{
+      "title": "Matrix",
+      "meta_data": {
+      "description": "A matrix is a rectangular array or table of numbers, symbols, or expressions, arranged in rows and columns. This course will take a deep understanding of a Matrix, types of matrices, multiply matrices, and other matrices' functionalities."
+      }
+    }
+  ],
+  "description": "<p>The major, Algebra I, guides you through, among other things, expressions, systems of equations, functions, real numbers, inequalities, exponents, polynomials, radical and rational expressions.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Special Function Types",
+    "Function Theorem",
+    "Matrix Concept"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

@@ -1,0 +1,18 @@
+{
+  "amount": "7499",
+  "courses": [
+2377,
+2376,
+2375,
+2374,
+2373
+  ],
+  "description": "<p>There are potential threats for every stage of information exchange between computers and humans to computers. There are also security mechanisms to cover-up, and work around the vulnerabilities that we find in the systems we use. New vulnerabilities will keep getting discovered, and new security mechanisms will keep evolving. This major focuses on offering the knowledge of applying cryptographic algorithms for network security. It also deals with the understanding and controlling of malicious software like viruses and worms. The objective of this major is to enable the student to understand and apply various security algorithms in applications such as e-mail, web, and other data transfer mechanisms.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Encryption Techniques",
+    "Symmetric and Unsymmetric Ciphers",
+    "Web and Transport Level Security"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

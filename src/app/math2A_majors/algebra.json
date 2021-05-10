@@ -1,0 +1,46 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Complex Numbers",
+      "meta_data": {
+        "description": "A complex number is a number that can be expressed in the form a + bi, where a and b are real numbers, and i represents the imaginary unit, satisfying the equation i&#xb2; = -1. In this course, we will dive into details about complex numbers and their types."
+      }
+    },
+    {
+      "title": "Theory of Equations",
+      "meta_data": {
+      "description": "The theory of equations is the study of algebraic equations, which are defined by a polynomial. In this course, we will enhance our understanding of the equational theory."
+      }
+    },
+    {
+      "title": "Permutations & Combinations",
+      "meta_data": {
+      "description": "The various ways in which objects from a set may be selected, generally without replacement, form subsets. This selection of subsets is called a permutation when the order of selection is a factor, a combination when order is not a factor. In this course, we will understand how to perform permutations and combinations across numbers or values."
+      }
+    },
+    {
+      "title": "Binomial Theorem",
+      "meta_data": {
+      "description": "The Binomial Theorem is the method of expanding an expression that has been raised to any finite power. A binomial Theorem is a powerful tool of expansion, which has application in Algebra, Probability, and so on. Along with it, we will review the binomial expression, which is an algebraic expression that contains two dissimilar terms. In this course, we will understand what a binomial theorem is and how to create the expression for them."
+      }
+    },
+    {
+      "title": "Partial Fractions",
+      "meta_data": {
+      "description": "The partial fraction decomposition or partial fraction expansion of a rational fraction is an operation that consists of expressing the fraction as a sum of a polynomial and one or several fractions with a simpler denominator. In this course, we will understand the concept of partial fractions."
+      }
+    }
+  ],
+  "description": "<p>Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. In elementary algebra, those symbols (today written as Latin and Greek letters) represent quantities without fixed values, known as variables. In this major, we will understand algebra and various concepts underlying algebra.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Multiple Roots or Repeated Roots",
+    "Transformations of Equations",
+    "Removal Theorems",
+    "Trinomial Expansion",
+    "Improper Fraction",
+    "Power Series Expansion"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

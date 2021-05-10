@@ -1,0 +1,18 @@
+{
+  "amount": "7499",
+  "courses": [
+    2010,
+    2011,
+    2101,
+    2012
+  ],
+  "description": "<p>This major will help you design and maintain Big Data systems, which also involves fixing missing data, outliers, and other data-related aspects. It will also help you understand mining and reconciling data from varied sources various modules in python, such as pandas, sklearn to interpret data sets more accurately.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Introduction to data analysis",
+    "Introduction to Python",
+    "SQL analysis",
+    "Exploratory Data Analysis"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

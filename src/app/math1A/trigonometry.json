@@ -1,0 +1,37 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Trignometric Equations",
+      "meta_data": {
+      "description": "A trigonometric equation is an equation involving one or more trigonometric ratios of unknown angles. It is expressed as ratios of sine(sin), cosine(cos), tangent(tan), cotangent(cot), secant(sec), cosecant(cosec) angles. This course will learn what trigonometric equations are, and we will look through concepts involving trigonometric equations."
+      }
+    },
+    {
+      "title": "Inverse Trigonometric Equations",
+      "meta_data": {
+      "description": "The inverse trigonometric functions of sine, cosine, tangent, cosecant, secant, and cotangent are used to find angles of any trigonometric function. This course will go through the concept of inverse trigonometry functions, theorems, and graphs."
+      }
+    },
+    {
+      "title": "Properties of Triangles",
+      "meta_data": {
+      "description": "This course aims to present the triangle concepts and various properties of a triangle. We will also learn about the cosine rule, incircle, and excircle."
+      }
+    },
+    {
+      "title": "Hyperbolic Functions",
+      "meta_data": {
+      "description": "THyperbolic Functions are analogues of ordinary trigonometric functions. In this course, we will learn about hyperbolic functions and some examples around them."
+      }
+    }
+  ],
+  "description": "<p>Trigonometry is a branch of mathematics that studies relationships between side lengths and angles of triangles. We will go through trigonometric equations, inverse trigonometric equations, properties of triangles, and hyperbolic functions.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Special Function Types",
+    "Function Theorem",
+    "Matrix Concept"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

@@ -1,0 +1,20 @@
+{
+  "amount": "7499",
+  "courses": [
+    2425,
+    2424,
+    2423,
+    2422,
+    2421
+  ],
+  "description": "<p>The capabilities of applications we develop or use are restricted by the Operating System they are on. That is when Middleware comes to rescue. Middleware tech is a broad area where applications are being used for Databases, Web, Transaction Processing. The main objective of this major is to get acquainted with various technologies used for implementing real-world projects. To connect software components or applications, embedded and enterprise applications, write programs on various programming lauguages from remote place, get familiar about the ASP .NET to connect data base using .NET and access advanced web services using SOAP protocol. This major covers advanced technologies of ASP.NET, C-sharp, CORBA, RMI, XML Web services.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Distributed System Structures",
+    "Middleware Motivation",
+    "ASP.net and C#.net; Concepts",
+    "Suitable Middleware Applications",
+    "Web Services and EJB Conceptss"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

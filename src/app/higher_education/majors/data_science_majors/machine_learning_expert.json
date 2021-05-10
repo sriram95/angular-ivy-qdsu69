@@ -1,0 +1,24 @@
+{
+  "amount": "7499",
+  "courses": [
+    2107,
+    2018,
+    2019,
+    2014,
+    2021,
+    2108
+  ],
+  "description": "<p>This major will review advanced machine learning topics, covering a wide range of different models and learning algorithms. We will evaluate varying speed-accuracy-interpretability tradeoffs by covering issues like Dimension Reduction, Maximum Entropy, Exponential Family Models, SVMs, Graph-Based Semi-Supervised Learning, Approximate Inference, Clustering, and Boosting.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Naive Bayes",
+    "Associate Rule Learning",
+    "Reinforcement Learning",
+    "Clustering Models",
+    "Support Vector Machines"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}
+
+
+

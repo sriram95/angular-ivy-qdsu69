@@ -1,0 +1,26 @@
+{
+  "amount": "1200",
+  "majors": [
+    {
+      "title": "Integral Calculus",
+      "meta_data": {
+      "description": "Integral calculus is a branch of calculus concerned with the theory and applications of integrals. While Differentiation represents the rate of change of a function, the Integration represents an accumulation or sum of a function over a range. They are somewhat of inverses of each other."
+      }
+    },
+    {
+      "title": "Differential Equations",
+      "meta_data": {
+      "description": "A differential equation is an equation that contains one or more terms and the derivatives of one variable (i.e., dependent variable) concerning the other variable. In other words, describing how things change in our world often ends up as a Differential Equation. More precisely, Differential Equations can describe how populations change, how heat moves, how springs vibrate, how radioactive material decays and much more. In this major we will understand what is differential equations, different types of equations and finally Bernoulli's Equation"
+      }
+    }
+  ],
+  "description": "<p>Are you ready for the Class 12th Mathematics Exam? Are you best equipped to tackle IIT JEE, EAMCET, and other highly competitive entrance examinations?Don't worry! To help students prepare effectively and score better in the Mathematics section of entrance exams (e.g., IIT JEE), we provide a comprehensive set of video lectures, quizzes, exams, and assignments. At the same time, the emphasis is placed on problem-solving and quantitative reasoning.</p> <p>This program will provide principles of Mathematics covering Indefinite integrals, definite integrals, and differential equations.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Homogeneous Differential Equations",
+    "Nonhomogeneous Differential Equations",
+    "Linear Differential Equations",
+    "Bernoulli’s Equation"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

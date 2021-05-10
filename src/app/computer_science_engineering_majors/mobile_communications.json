@@ -1,0 +1,17 @@
+{
+  "amount": "7499",
+  "courses": [
+2381,
+2380,
+2379,
+2378
+  ],
+  "description": "<p>Mobile communications witnessed rapid growth in the last few decades. The cost of making a call has come down, We can now access the World Wide Web with a speed even computers a decade ago weren't able to. While computers rely on wired connections like LAN, Mobile phones have to rely on Ad-hoc networks that depend on the number of expensive towers. There are a lot of underlying Network Protocols, Technologies in Mobile Communications which you will see in the major. This major offers an insight into the concepts of mobile and wireless data communication technologies. The objective of this major is to enable the student to understand the emerging technologies of wireless and mobile communications and simulate them.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Understand new trends in wireless communication networks",
+    "Understand multiple radio access techniques",
+    "Analyze various routing algorithms used in mobile/wireless networks"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

@@ -1,0 +1,20 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Laws of Motion",
+      "meta_data": {
+      "description": "This course will cover Newton's Laws of Motion with suitable examples."
+      }
+    }
+  ],
+  "description": "<p>Dynamics is the branch of mechanics that deals with the effect that forces have on the motion of objects. In contrast, statics is the study of forces without motion; or more formally, the branch of mechanics deals with forces in the absence of changes in motion. Dynamics implies change. Statics implies changelessness. The change that matters is acceleration. In this major, we will mainly discuss the Laws of Motion and Work, Energy and Power.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Newton's Law",
+    "Frames of References",
+    "Constrained Motion",
+    "Friction"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

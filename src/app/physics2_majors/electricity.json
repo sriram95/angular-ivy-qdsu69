@@ -1,0 +1,32 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Electric charges and Fields",
+      "meta_data": {
+      "description": "The electric field is an alteration of space caused by the presence of an electric charge. The electric field mediates the electric force between a source charge and a test charge. The field is a vector; by definition, it points away from positive charges and negative charges. In this course, we will be going through Electric Fields, and Electric Dipole as well as Electric Charges and Fields in detail."
+      }
+    },
+    {
+      "title": "Electrostatic Potential and Capacitance",
+      "meta_data": {
+      "description": "The electrostatic potential at any point in an electric field is equal to the amount of work done per unit positive test charge or in bringing the unit positive test charge from infinite to that point against the electrostatic force without acceleration. In this course, we will be going through electrostatic potential energy, capacitance, and capacitor in detail."
+      }
+    },
+    {
+      "title": "Current Electricity",
+      "meta_data": {
+      "description": "Electric current, any movement of electric charge carriers, such as subatomic charged particles (e.g., electrons have a negative charge, protons have a positive charge), ions (atoms that have lost or gained one or more electrons), or holes (electron deficiencies that may be thought of as positive particles). In this course, we will be going through Kirchoff’s Law and other topics in detail."
+      }
+    }
+  ],
+  "description": "<p>Electricity is the set of physical phenomena associated with the presence and motion of matter with a property of electric charge. Electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations. This major will discuss electric charges and fields, Electrostatic potential and capacitance, and Current electricity.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Electric Field Intensity",
+    "Electric Dipole",
+    "Gaussian Surface",
+    "Electric Charges and Fields"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

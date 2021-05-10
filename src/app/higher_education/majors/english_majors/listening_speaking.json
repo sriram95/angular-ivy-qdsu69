@@ -1,0 +1,36 @@
+{
+  "amount": "7499",
+  "courses": [
+    {
+      "title": "Part A",
+      "meta_data": {
+        "description": "This course focuses on the development of basic listening and speaking skills on day-to-day topics."
+      }
+    },
+    {
+      "title": "Part B",
+      "meta_data": {
+        "description": "This course helps students to learn to identify and articulate suggestions, opinions, and locate specific facts from spoken English."
+      }
+    },
+    {
+      "title": "Part C",
+      "meta_data": {
+        "description": "This course focuses on helping students learn to identify and articulate comparison and contrasts in spoken English as well as summarize information they hear."
+      }
+    },
+    {
+      "title": "Part D",
+      "meta_data": {
+        "description": "By the end of this major, students will be able to identify audience and give a short presentation on a researched topic."
+      }
+    }
+  ],
+  "description": "<p>This major helps students to communicate and debate with authority across a wide range of topics.</p> ",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Basic listening and speaking skills",
+    "Articulate suggestions, opinions and locate specific facts"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

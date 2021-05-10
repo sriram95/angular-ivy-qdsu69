@@ -1,0 +1,50 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "System of particles and rotational motion",
+      "meta_data": {
+      "description": "A system is defined as a group of particles. When these groups of particles move in a particular direction or a circular path, then the motion it follows is known as rotational motion."
+      }
+    },
+    {
+      "title": "Oscillations",
+      "meta_data": {
+      "description": "In this course, we will go through Oscillation that is defined as the process of repeating variations of any quantity or measure about its equilibrium value in time. Oscillation can also be described as a periodic variation of a matter between two values or about its central importance."
+      }
+    },
+    {
+      "title": "Gravitation",
+      "meta_data": {
+      "description": "In this course, we will go through Gravity, also called Gravitation, in mechanics, the universal force of attraction acting between all Matter. It is by far the weakest known force in nature and thus plays no role in determining the internal properties of everyday Matter."
+      }
+    },
+    {
+      "title": "Thermal Properties of Matter",
+      "meta_data": {
+      "description": "Thermal properties are the physical properties of Matter, which are related to the conductivity of heat. Thermal properties explain a material's response, i.e., how it reacts when subjected to varying heat, either excessive heat or low heat."
+      }
+    },
+    {
+      "title": "Thermodynamics",
+      "meta_data": {
+      "description": "Thermodynamics is the science of the relationship between heat, work, temperature, and energy. In broad terms, thermodynamics deals with transferring energy from one place to another and from one form to another. The key concept is that heat is a form of energy corresponding to a definite mechanical work amount. In this course, we will review Thermodynamics and concepts relating to thermodynamics."
+      }
+    },
+    {
+      "title": "Kinetic theory of gases",
+      "meta_data": {
+      "description": "The kinetic theory of gases is based on a simplified molecular or particle description of a gas, from which many gross properties of the gas can be derived. In this course, we will review Kinetic theory of gases in detail."
+      }
+    }
+  ],
+  "description": "<p>A rotation is a circular movement of an object around a center of rotation. The geometric plane along which the rotation occurs is called the rotation plane, and the imaginary line extending from the center and perpendicular to the rotation plane is called the rotation axis. This major will discuss systems of particles and rotational motion, oscillations, and Gravitation.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Types of Mechanical Properties",
+    "Mechanical Properties Forces",
+    "Strain",
+    "Young's modulus"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

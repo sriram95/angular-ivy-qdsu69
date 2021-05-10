@@ -1,0 +1,16 @@
+{
+  "amount": "7499",
+  "courses": [
+    2420
+  ],
+  "description": "<p>Global production of data has been growing exponentially day by day. This data includes organized data like sale data to unorganized data like how users are behaving on a website. Besides these data, there is so much data available on the open web. Mining this data helps us with making decisions, analyzing trends. This major introduces the concepts and techniques of knowledge discovery and data mining. It also focuses on issues relating to the feasibility, usefulness, effectiveness, and scalability of techniques for the discovery of patterns hidden in large data sets. The objective of this major is to apply the techniques of clustering, classification, association finding, feature selection, and visualization of real-world data. </p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Datasets used for analysis",
+    "Data Cleaning Methods",
+    "Data Mining For Decision Making",
+    "Correlation Analysis",
+    "Clustering Techniques"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

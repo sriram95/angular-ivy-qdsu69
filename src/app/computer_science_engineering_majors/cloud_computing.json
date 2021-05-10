@@ -1,0 +1,22 @@
+{
+  "amount": "7499",
+  "courses": [
+    2408,
+    2407,
+    2406,
+    2405,
+    2404
+  ],
+  "description": "<p>Mobile phones keep us connected and help us with various functions. We can't pay without an Application for Payment. We can't test without a Messaging Application. How do they help us with performing different functions? Mobile Phone Operating Systems like Android created platforms for developers to program and deploy their applications that solve multiple problems/ entertain. This major helps a student to design effective mobile applications using the Android development environment. The main objective of this major is to create user-friendly applications that involve the design of the layout, windows components, and multiple screens with one-touch options.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Cloud Computing Strengths and Limitations",
+    "Architecture, Infrastructure and Cloud Computing Delivery Models",
+    "Apply suitable virtualization concepts",
+    "Programming Models and choosing appropriate cloud player",
+    "Cloud computing core issues",
+    "Design Cloud Services",
+    "Set a private cloud"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

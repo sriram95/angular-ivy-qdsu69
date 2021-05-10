@@ -1,0 +1,51 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "Business Plan Execution",
+      "meta_data": {
+      "description": "The purpose of this major is to provide a broad survey of concepts and skills that will benefit aspiring entrepreneurs and students who want to work for a startup, operate entrepreneurially within a more mature organization, invest in new ventures, or some combination thereof. "
+      }
+    },
+    {
+      "title": "Venture Financing",
+      "meta_data": {
+      "description": "Young firms face exceptionally high degrees of uncertainty, constraining financing opportunities and their implications for future choices. This major will review the tools and concepts of entrepreneurial financial management with real-world cases on firms at different stages of their life cycles."
+      }
+    },
+    {
+      "title": "Emerging Startup Strategy",
+      "meta_data": {
+      "description": "This major provides students with models of strategy that evaluate changing global market trends in terms of both segments and geographies while prioritizing core markets for scaling the business to the next level."
+      }
+    },
+    {
+      "title": "Global Prioritization",
+      "meta_data": {
+      "description": "Firms increasingly face competitive pressures related to rapid and continuous adaptation to a complex, dynamic and highly interconnected global environment. This major helps students develop models of how organizational structure influences and incentivizes employees to achieve corporate performance."
+      }
+    },
+    {
+      "title": "Human Capital Management",
+      "meta_data": {
+      "description": "Human capital management (HCM) is a set of practices related to people resource management. These practices are focused on the organizational need to provide specific competencies and are implemented. This major will focus on the human resource and its components"
+      }
+    },
+    {
+      "title": "Key Employees' Skill Primer",
+      "meta_data": {
+      "description": "When searching for the right candidate to fill a job, we often focus on the applicant’s work experience and level of education. Sometimes it is all about who they know or who referred them. But what we should really focus on is the candidate’s skills. This major will describe certain skills employers want in every candidate, no matter what role they will fill. From entry-level workers to executives, every employee should possess these personal skills in order to succeed and help your company move forward. "
+      }
+    }
+  ],
+  "description": "<p>Creating a new business is a challenging and complex task. The risks of starting a new business are high, as illustrated by the high failure rates for new ventures. In fact, only 6% of the firms survive over any five-year period highlighting the high birth and exit rates of firms in India, thereby, causing devastation for the people involved. </p> <p> However, as is always the case, the rewards are commensurate with the risk of being in the Forbes 400 list. Along with that, as we can see, in recent years, the startups from India that have become “winners” for their investors such as Flipkart, Big Basket, and Ola, have received the lion’s share of attention from business press. </p> <p> Given this, the program, RISE: Scale your Startup, helps aspiring entrepreneurs launch and scale new ventures with success. As part of the program, the students can Pitch their ideas to venture capital firms with a seed-fund of Rs.100,000 for the winner of the competition. </p> <p> Furthermore, the skills, analytical tools, perspectives, and experiences derived from this program also prepares students for careers as family-business entrepreneurs, or entrepreneurs in corporate settings. In other words, whether a student wants to start a business while in school, join an emerging business, or set the groundwork to launch a new firm later in his or her career, the program aims to provide preparation for all of these exciting options. </p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Business Opportunity",
+    "Venture Financing & Assessment",
+    "New Growth Strategies",
+    "Consumer Markets",
+    "Business Strategy & Culture"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

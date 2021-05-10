@@ -1,0 +1,38 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "UAV Design",
+      "meta_data": {
+      "description": "The UAV Design major aims to present UAVs' design principles and the components that comprise a complete unmanned aircraft system. More precisely, we will focus on quadcopters, critical design considerations, methodologies to design, analyze, and fly the quadcopter. In doing so, we will describe the UAV, types of UAVs, including an overview, market structure, various types, and UAV aerodynamics."
+      }
+    },
+    {
+      "title": "UAV Simulate",
+      "meta_data": {
+      "description": "In this major, we will go through ways to talk to a quadcopter mathematically. We will understand methods to create equations for quadcopter maneuvering, do rigid body displacement, and build the quadcopter movements."
+      }
+    },
+    {
+      "title": "UAV Control",
+      "meta_data": {
+      "description": "The major on UAV Control aims to introduce the participants to how to create and design control laws across multiple dimensions to the participants. With this, we will be able to manipulate UAVs' position and orientation such that they can take-off, hover, and fly along a desired trajectory between waypoints and land autonomously."
+      }
+    },
+    {
+      "title": "UAV Estimation & Planning",
+      "meta_data": {
+      "description": "So far, we have learned methods to design, simulate and control a UAV, primarily a quadcopter. In this major, we will understand ways to create motion planning and autonomous trajectories for quadcopters. With this, we'll ensure a vital guarantee to complete the autonomous flight by considering factors such as fuel consumption, maneuverability, arrival time, flight area, and threat level that typically emerge between the starting point and the ending point of the flight path of the aircraft. As a bonus, we will also learn the logic of creating SWARM robotics to control multiple UAVs together."
+      }
+    }
+  ],
+  "description": "<p>The Unmanned Aerial Vehicle (UAV) Challenge Program aims to develop skills by providing a realistic project experience in the UAV engineering analysis, design, and development for complex, three-dimensional environments. Unmanned Aerial Vehicle (UAV) systems accomplish successful mission operations despite having no onboard human pilots.</p> <p> It provides a comprehensive understanding of UAVs from the Design, Simulation, Control, Planning, and Application perspectives. In creating agile aerial vehicles, the design teams are responsible for the science, innovation, analysis, experimentation, economic decisions, business operations, planning of projects, and patents aspects.</p> <p> Pre-requisites: Students taking this course are expected to be familiar with Linear Algebra, Trigonometry, Single Variable Calculus, and Differential Equations.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Design UAV’s",
+    "Simulate UAV’s",
+    "Control UAV’s ",
+    "Build autonomous UAV’s"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

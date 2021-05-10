@@ -1,0 +1,38 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "Grammar/Vocabulary",
+      "meta_data": {
+      "description": "This major focuses on the vocabulary development and grammar development.  By the end of this major, Students will be able to compose grammatically correct and comprehensible sentences, paragraphs, and essays with a very good vocabulary."
+      }
+    },
+    {
+      "title": "Reading",
+      "meta_data": {
+      "description": "This major helps students to gain reading skills, gain vocabulary while comprehending advanced reading material with ease making thematic and philosophical connections across texts."
+      }
+    },
+    {
+      "title": "Writing",
+      "meta_data": {
+      "description": "This course helps students to learn to write clearly and with authority. By submitting themselves to the rigorous process of writing, and rewriting their papers, students come to identify and then to master the essential properties of the debate and argument."
+      }
+    },
+    {
+      "title": "Listening/ Speaking",
+      "meta_data": {
+      "description": "This major helps students to communicate and debate with authority across a wide range of topics."
+      }
+    }
+  ],
+  "description": "<p>The English Language Program offers non-native speakers from all over the world unparalleled opportunities become more proficient in writing and speaking in English. Our rigorous academic curriculum is taught by an experienced faculty with degrees from Ivy League Institutions.</p> <p> As part of the program, you can take a combination of majors and/or courses depending on your level. All courses are designed to help you build fluency in English gradually. Level I is pre-beginner level ability and Level 4 is advanced. Our exit level, 5, indicates an extremely proficient and precise level of English. </p> <p> To begin the program or major or course, you’ll have to take the test. If you happen to fail the exam, you’ll be not be able to take the respective program. We will give a 100% tuition refund and help with enrolling into the right course.</p> <p> In addition, through the program, you’ll be able to secure highest possible marks for TOEFL and GMAT. In the process, you will be able to test your skills every day.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Vocabulary Development",
+    "Grammar Development",
+    "Reading Skills",
+    "Create coherent unified paragraph"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

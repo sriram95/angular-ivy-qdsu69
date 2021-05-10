@@ -1,0 +1,20 @@
+{
+  "amount": "7499",
+  "courses": [
+    2430,
+    2429,
+    2428,
+    2427,
+    2426
+  ],
+  "description": "<p>A Computer Network, Which is not just limited to the World Wide Web (An Application on top of the network) or Internet (A type of network), disrupted several industries. Computer Networks not only played a major role in Information Exchange and Globalisation, But also explains advanced technologies such as resource sharing, distributed computing.</p> <p> Computer Networks follow a certain set of rules which can also be called as protocols, that are required on several layers which will be taught in this major. This major offers an insight into different LAN and WAN technologies, and various protocols of the layered network architectures that are widely used in network applications. The objective of this major is to enable the student to learn about LAN and WAN technologies, transimission media, reliable communication over a link, packet routing, network congestion, internetworking, Quality of Service (QoS), end to end reliable communication. </p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Introduction to Networks",
+    "Software and Reference Models",
+    "Physical Layer Media",
+    "Switching Methods",
+    "Analyze various design issues"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

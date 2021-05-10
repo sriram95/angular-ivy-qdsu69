@@ -1,0 +1,36 @@
+{
+  "amount": "1200",
+  "majors": [
+    {
+      "title": "Algebra I",
+      "meta_data": {
+      "description": "The major, Algebra I, guides you through, among other things, expressions, systems of equations, functions, real numbers, inequalities, exponents, polynomials, radical and rational expressions."
+      }
+    },
+    {
+      "title": "Vector Algebra",
+      "meta_data": {
+      "description": "Vector algebra is one of the essential topics of algebra. It studies the algebra of vector quantities. As we know, there are two types of physical quantities, scalars, and vectors. The scalar quantity has only magnitude, whereas the vector quantity has both magnitude and direction. This course will study what a vector is, its linear combinations, and some examples."
+      }
+    },
+    {
+      "title": "Trigonometry",
+      "meta_data": {
+      "description": "Trigonometry is a branch of mathematics that studies relationships between side lengths and angles of triangles. We will go through trigonometric equations, inverse trigonometric equations, properties of triangles, and hyperbolic functions."
+      }
+    }
+  ],
+  "description": "<p>Are you ready for the Class 11th Mathematics Exam? Are you best equipped to tackle IIT JEE, EAMCET, and other highly competitive entrance examinations?</p><p>Don't worry! To help students prepare effectively and score better in the Mathematics section of entrance exams (e.g., IIT JEE), we provide a comprehensive set of video lectures, quizzes, exams, and assignments. At the same time, the emphasis is placed on problem-solving and quantitative reasoning.</p><p>This program will provide principles of Mathematics covering Matrices, Vectors, Trigonometry, and Hyperbolic functions.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Matrices",
+    "Addition of Vectors",
+    "Product of Vectors",
+    "Transformations",
+    "Trigonometric Equations",
+    "Inverse Trigonometric Functions",
+    "Properties of Triangles",
+    "Hyperbolic Functions"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

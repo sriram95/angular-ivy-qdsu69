@@ -1,0 +1,45 @@
+{
+  "amount": "1200",
+  "majors": [
+    {
+      "title": "Acoustics",
+      "meta_data": {
+      "description": "Acoustics, the science concerned with the production, control, transmission, reception, and effects of sound. The term is derived from the Greek akoustos, meaning heard. In this major, we will be primarily discussing waves."
+    }
+    },
+    {
+      "title": "Optics",
+      "meta_data": {
+      "description": "Optics is the branch of physics that studies light's behavior and properties, including its interactions with matter and the construction of instruments that use or detect it. Optics usually describes the behavior of visible, ultraviolet, and infrared light. In this major, we will be discussing wave optics and ray optics."
+    }
+    },
+    {
+      "title": "Electricity",
+      "meta_data": {
+      "description": "A rotation is a circular movement of an object around a center of rotation. The geometric plane along which the rotation occurs is called the rotation plane, and the imaginary line extending from the center and perpendicular to the rotation plane is called the rotation axis. This major will discuss systems of particles and rotational motion, oscillations, and Gravitation."
+    }
+    },
+    {
+      "title": "Magnetism",
+      "meta_data": {
+      "description": "Magnetism is the force exerted by magnets when they attract or repel each other. The motion of electric charges causes magnetism. Every substance is made up of tiny units called atoms. Each atom has electrons, particles that carry electric charges. In this major, we will discuss Moving Charges, Magnetism, and Matter."
+    }
+    },
+    {
+      "title": "Nuclear physics",
+      "meta_data": {
+      "description": "Nuclear physics is the field of physics that studies atomic nuclei and their constituents and interactions. Other forms of nuclear matter are also reviewed. Nuclear physics should not be confused with atomic physics, which explores the atom as a whole, including its electrons. In this major, we will discuss Atoms and Nuclei."
+    }
+    }
+  ],
+  "description": "<p>Are you ready for the Class 12 Physics Exam? Are you best equipped to tackle IIT JEE, NEET, EAMCET, and other highly competitive entrance examinations?Don't worry! To help students prepare effectively and score better in the Physics section of entrance exams (e.g., IIT JEE), we provide a comprehensive set of video lectures, quizzes, exams, and assignments. At the same time, the emphasis is placed on problem-solving and quantitative reasoning.</p> <p>Physics is the branch of science that deals with the structure of matter and how the fundamental constituents of the universe interact. It studies objects ranging from the very small using quantum mechanics to the entire universe using general relativity.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Waves",
+    "Electric charges and fields",
+    "Electrostatic Potential and capacitance",
+    "Current electricity",
+    "Moving charges and magnetism"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

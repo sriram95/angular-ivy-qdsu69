@@ -1,0 +1,15 @@
+{
+  "amount": "7499",
+  "courses": [
+2388
+  ],
+  "description": "<p>Cyber Security has become fundamental. Our information, Digital Footprints we left years ago can be used for various purposes. Vulnerable personal computers are a target for hackers to steal information and perform various things like demanding a ransom. Not just the personal computers, Our data is also in servers of applications we use. These servers are attacked in various ways which you will see in this course. This course will acquaint you with the fundamentals of Cyber Security, Different types of threats and vulnerabilities, Why Cyber Security plays a major role.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Cyber Security",
+    "Data Protection",
+    "CIA Triad",
+    "Firewalls"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

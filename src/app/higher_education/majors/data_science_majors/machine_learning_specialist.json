@@ -1,0 +1,14 @@
+{
+  "amount": "7499",
+  "courses": [
+    2106,
+    2017
+  ],
+  "description": "<p>This major introduces machine learning topics covering generative and discriminative estimations. It will help students analyze large data sets and perform highly complex tasks. We will review ways to make technologies possible such as speech recognition, internet search, bioinformatics and recommender systems, and driverless cars.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Non-Parametric Modeling",
+    "Tree Models"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

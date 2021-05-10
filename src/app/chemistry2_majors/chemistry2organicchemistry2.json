@@ -1,0 +1,70 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Polymers",
+      "meta_data": {
+        "description": "Polymers are materials made of long, repeating chains of molecules. The materials have unique properties, depending on the type of molecules being bonded and how they are bonded. Some polymers bend and stretch, like rubber and polyester. In this course, we will learn details about polymers including their classification, and properties."
+      }
+    },
+    {
+      "title": "Biomolecules",
+      "meta_data": {
+      "description": "Biomolecules are essential organic molecules, which are involved in the maintenance and metabolic processes of living organisms. These non-living molecules are the actual foot-soldiers of the battle of sustenance of life. In this course, we will understand Glucose, Polysaccharides, Proteins, Vitamins, and Hormones."
+      }
+    },
+    {
+      "title": "Chemistry in Everyday Life",
+      "meta_data": {
+      "description": "In this course, we will understand the real-time examples of using chemistry in real life."
+      }
+    },
+    {
+      "title": "HaloAlkanes And HaloArenes",
+      "meta_data": {
+      "description": "Haloalkanes and Haloarenes are Hydrocarbons in which one or more hydrogen atoms have been replaced with Halogen atoms. The primary difference between Haloalkanes and Haloarenes is that Haloalkanes are derived from open-chain Hydrocarbons (Alkanes), whereas Haloarenes are derived from Aromatic Hydrocarbons. In this course, we will learn in detail about HaloAlkanes And HaloArenes."
+    }
+    },
+    {
+      "title": "Alcohols",
+      "meta_data": {
+      "description": "In this course, we will learn about Alcohols, which are the family of compounds that contain one or more hydroxyl (-OH) groups attached to a single bonded alkane. Alcohols are represented by the general formula -OH. Alcohols are important in organic chemistry because they can be converted to and from many other types of compounds."
+    }
+    },
+     {
+      "title": "Phenols",
+      "meta_data": {
+      "description": "In organic chemistry, phenols, sometimes called phenolics, are a class of chemical compounds consisting of one or more hydroxyl groups (—OH) bonded directly to an aromatic hydrocarbon group. In this course, we will understand phenols."
+    }
+    },
+    {
+      "title": "Organic Conversions",
+      "meta_data": {
+      "description": "Converting one organic compound to another organic compound using one or more other organic compounds or reagents by single or multiple steps is called an organic conversion."
+    }
+    },
+    {
+      "title": "Carboxylic Acids",
+      "meta_data": {
+      "description": "A carboxylic acid is an organic acid that contains a carboxyl group (C(=O)OH) attached to an R-group. A carboxylic acid's general formula is R–COOH, with R referring to the alkyl, alkenyl, aryl, or other groups. In this course, we will be reviewing Carboxylic Acids in detail."
+    }
+    },
+    {
+      "title": "Amines",
+      "meta_data": {
+      "description": "Amines are formally derivatives of ammonia, wherein one or more hydrogen atoms have been replaced by a substituent such as an alkyl or aryl group (these may respectively be called alkylamines and arylamines."
+    }
+    }
+  ],
+  "description": "<p>This Organic Chemistry major focuses on the methods used to identify the structure of organic molecules, advanced principles of organic stereochemistry, organic reaction mechanisms, and methods used to synthesize organic compounds. Additional special topics include illustrating the role of organic chemistry in biology, medicine, and industry.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Polymers Classification",
+    "Glucose Properties and Preparation Methods",
+    "Alcohol Preparation",
+    "Amines Preparation",
+    "Amines Chemical Properties",
+    "Diazonium Salts"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

@@ -1,0 +1,45 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "Business Analyst",
+      "meta_data": {
+      "description": "This major provides students exceptional training to assess processes, determine requirements, and deliver executives' data-driven recommendations. In the first part of the major, we focus on deriving and cleaning the data to develop insights. In the second part, we focus on using visualization tools like Tableau to support decision-making given business constraints."
+      }
+    },
+    {
+      "title": "Data Visualization and Communication",
+      "meta_data": {
+      "description": "This major provides students with foundations to understand and apply statistical methods to drive value for the firm. It starts with helping students to think critically about data and the statistical analyses that can be carried out for creating value. Lastly, it helps students identify opportunities and post analytics, estimate the value made addressing particular opportunities."
+      }
+    },
+    {
+      "title": "Product-Marketing Analyst",
+      "meta_data": {
+      "description": "This major introduces students to several types of product marketing problems and how to leverage data to make effective marketing decisions. It will involve formulating critical issues, developing conjoint analysis, multivariate testing, regression, most importantly, and drawing inferences to produce actionable results."
+      }
+    },
+    {
+      "title": "Operations' Analytics",
+      "meta_data": {
+      "description": "This major incorporates analytics into operational decision-making processes starting from production and pre-sales to post-sales activities. We will introduce optimization in operations and then discuss ways to formulate decision-making problems as optimization models. We then shed light on methods used to solve these optimization models."
+      }
+    },
+    {
+      "title": "HR Analytics",
+      "meta_data": {
+      "description": "This major provides students with skills and understanding of people management, allowing them to make the most of the analysis available to them as they make people decisions. More precisely, it helps students gain analytics skills from selecting the right people for the job, measuring and managing performance, increasing engagement and reducing attrition, and improving access to opportunities within the workforce."
+      }
+    }
+  ],
+  "description": "<p>Business Analytics is the combination of skills, technologies, applications and processes used by organizations to gain insight into their business based on data and statistics and use it for business planning. Business analytics can be implemented in any department from HR and Finance to product development; to sales and customer service. Business analytics solutions typically use fact-based data to measure past performance to guide an organization’s business planning. In this current age of technology or I 4.0, companies gather massive amount of data. This program will help analyst helps the organization to address, explore and a number of questions regarding their business which in-turn help them to take business decisions. It also brings in a lot of improvements in the organization like improved profits, increased growth, reduced overheads, increased customer loyalty, better return on investment, predict employee attrition, improve employee performance, detect fraud, predict risk etc. </p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Business Analyst",
+    "Data Science in Business",
+    "Data Visualization and Story Telling",
+    "Operation Analytics",
+    "HR Analytics",
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

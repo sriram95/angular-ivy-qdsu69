@@ -1,0 +1,33 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "Design Engineering Specialist",
+      "meta_data": {
+      "description": "Design is the heart of any process, an idea that begins in the mind of an engineer is then translated onto a paper and from there it is fed into software, a long taxing process at the end of which something brand new is brought forth into the world. This major will help you understand major aspects of design principle and parameters to consider while designing a product"
+      }
+    },
+    {
+      "title": "Simulation Engineering Specialist",
+      "meta_data": {
+      "description": "<p>It is an industry targeted specialization with an appeal to students that are preparing for mechanical, design, manufacturing, biomedical, structural, geotechnical, and aerospace engineering careers. For the highly selected applicants from industry or national labs having demonstrated computational capabilities and the management support, it may be possible in the future to complete the entire curriculum using online resources.</p> <p>Simulation methods, such as the finite element method, meshfree, discrete and particle methods, and thermal/fluid dynamics, are powerful tools that are used extensively throughout all engineering disciplines to design products and reduce time to market by performing “virtual testing” on the computer before physical prototypes are built. Students in this program will acquire highly-marketable skills that are of great demand in several industry sectors.</p>"
+      }
+    },
+    {
+      "title": "Manufacturing Engineering Specialist",
+      "meta_data": {
+      "description": "Manufacturing Engineers focus on the design and operation of integrated systems for the production of high-quality, economically competitive products. These systems may include computer networks, robots, machine tools, and materials-handling equipment. In this major we will study various methodologies involving while manufacturing a product"
+      }
+    }
+  ],
+  "description": "<p>Mechanical engineering is one of the fundamental types of engineering, and it is also contains a large quantity of sub-categories, such as heating and cooling, thermodynamics, manufacturing engineering, and more. There has always been a need for mechanical engineers, and since there are very innovative solutions coming about in more specialized mechanical engineering fields such as robotics and industrial engineering, we expect mechanical engineering and its sub-categories to be in demand in the future. </p> <p> This program focuses on various aspects of how to create a mechanical product such as designing, simulating and manufacturing. </p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Principles of Design",
+    "Machining",
+    "Fluid Mechanics",
+    "FEA",
+    "CFD"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

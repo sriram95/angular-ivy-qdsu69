@@ -1,0 +1,18 @@
+{
+  "amount": "7499",
+  "courses": [
+    2168,
+    2169,
+    2170,
+    2171
+  ],
+  "description": "<p>This major provides students with skills and understanding of people management, allowing them to make the most of the analysis available to them as they make people decisions. More precisely, it helps students gain analytics skills from selecting the right people for the job, measuring and managing performance, increasing engagement and reducing attrition, and improving access to opportunities within the workforce.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Recruitment Metrics",
+    "Diversity Metrics",
+    "Workforce Deployment Metrics",
+    "Talent Retention Metrics"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

@@ -1,0 +1,49 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "Digital Marketing Analyst",
+      "meta_data": {
+      "description": "This major provides students with the capabilities to design effective marketing strategies while considering competitors, the economic environment, and business strategy. In doing so, we follow a customer-centric approach to marketing based on understanding customers and how they drive firm value."
+      }
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "meta_data": {
+      "description": "This major will develop a systematic understanding of search engine marketing by learning concepts and tools to execute them seamlessly. We will conduct an in-depth study of display advertising, search advertising at both the tactical and strategic levels. Along with that, the major helps students measure digital marketing efforts effectively. "
+      }
+    },
+    {
+      "title": "Digital Marketing Expert",
+      "meta_data": {
+      "description": "This major helps students to master social media marketing and will be able to develop, evaluate, and execute a comprehensive social media marketing strategy for companies globally. More precisely, the major provides students opportunities to implement digital display, video, mobile, social media, and other online advertising activities across Facebook, Instagram, Twitter, LinkedIn, and other relevant digital channels. Along with that, the major helps students calculate ROI across social media platforms effectively. "
+      }
+    },
+    {
+      "title": "Product Marketing Specialist",
+      "meta_data": {
+      "description": "Today, digital marketing platforms support rigorous experiments. Unsurprisingly, marketers have embraced a test and learn approach to design, execute and analyze experiments. This major helps students develop a high level of hands-on skill with A/B testing, multivariate testing, regression, and optimal design to perform experiments with utmost efficacy and effectiveness. "
+      }
+    },
+    {
+      "title": "Branding Specialist",
+      "meta_data": {
+      "description": "This major helps students to understand and develop branding assets that differentiate their products from the competition. More precisely, students will gain skills to articulate compelling customer-centric value propositions and leverage available resources to build solid yet diversified branding assets. "
+      }
+    },
+    {
+      "title": "Branding Expert",
+      "meta_data": {
+      "description": "This major helps students become acquainted with cutting-edge frameworks, concepts, and tools adopted across industries and worldwide to build lucrative brand franchises. The major allows students to assess marketing communication vehicles and platforms in effective brand management."
+      }
+    }
+  ],
+  "description": "<p>Digital marketing is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel. This program provides students with the capabilities to design effective marketing strategies while considering competitors, the economic environment, and business strategy. In doing so, we follow a customer-centric approach to marketing based on understanding customers and how they drive firm value.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Product Marketing",
+    "Branding",
+    "Social Media Marketing"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

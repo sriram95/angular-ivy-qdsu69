@@ -1,0 +1,37 @@
+{
+  "amount": "7499",
+  "courses": [
+    {
+      "title": "Pre-Beginner Writing",
+      "meta_data": {
+        "description": "This course focuses on the conventions of alphabetization, capitalization, and basic punctuation to construct simple sentences."
+      }
+    },
+    {
+      "title": "Beginner Writing",
+      "meta_data": {
+        "description": "This course helps students to learn to create a coherent, unified paragraph with a topic sentence and supporting sentences."
+      }
+    },
+    {
+      "title": "Intermediate Writing",
+      "meta_data": {
+        "description": "By the end of this course, students learn to develop a 2-3 paragraph essay containing connected sentences and transition words with editing tactics."
+      }
+    },
+    {
+      "title": "Advanced Writing",
+      "meta_data": {
+        "description": "Student writing skills are enhanced via an emphasis on developing and maintaining an argumentative essay structure upheld by academic citations of at least 10 pages research paper with a consistent tone and voice."
+      }
+    }
+  ],
+  "description": "<p>This course helps students to learn to write clearly and with authority. By submitting themselves to the rigorous process of writing, and rewriting their papers, students come to identify and then to master the essential properties of the debate and argument.</p> ",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Coherent Sentences",
+    "Unified Paragraphs",
+    "Enhance writing skills"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

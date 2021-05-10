@@ -1,0 +1,22 @@
+{
+  "amount": "7499",
+  "courses": [
+2403,
+2402,
+2401,
+2400,
+2399
+  ],
+  "description": "<p>Automata Theory and Formal Languages are still useful in the age of Cloud-Based Systems with tons of processing power. They're being used in sophisticated applications that deal with multi-million rows of data. This major aims to teach the student to identify different formal language classes and their relationships, a strong theoretical foundation for designing compilers. In addition to this, the student will be able to learn the techniques for information processing, design different grammars, automata's and recognizers for different formal languages.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Understand Abstract Models of Computing",
+    "Finite State Machines",
+    "Apply suitable virtualization concepts",
+    "Programming Models and choosing appropriate cloud player",
+    "Cloud computing core issues",
+    "Design Cloud Services",
+    "Set a private cloud"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

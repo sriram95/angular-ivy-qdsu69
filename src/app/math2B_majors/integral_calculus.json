@@ -1,0 +1,32 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Indefinite Integrals",
+      "meta_data": {
+      "description": "Indefinite integration, also known as anti-Differentiation, is the reversing of the process of Differentiation. In this course, we will learn about Indefinite Integrals, Integral types, Partwise Integrations, and Reduction Formulae."
+      }
+    },
+    {
+      "title": "Integral Areas",
+      "meta_data": {
+      "description": "This course aims to present the area under a curve between two points by doing a definite integral between the two points."
+      }
+    },
+    {
+      "title": "Indefinite Integrals",
+      "meta_data": {
+      "description": "TThe definite integral is precisely the limit and summation that we looked at in the last section to find the net area between a function and the x-axis. In this course, we will look into the concept of definite integral with suitable examples."
+      }
+    }
+  ],
+  "description": "<p>Integral calculus is a branch of calculus concerned with the theory and applications of integrals. While Differentiation represents the rate of change of a function, the Integration represents an accumulation or sum of a function over a range. They are somewhat of inverses of each other.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Types of Integration",
+    "Integration Evaluation using Trigonometric Functions",
+    "Definite Integrals",
+    "Reduction Formulae"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

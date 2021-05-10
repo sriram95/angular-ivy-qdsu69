@@ -1,0 +1,39 @@
+{
+  "amount": "7499",
+  "courses": [
+    {
+      "title": "Pre-Beginner Grammar",
+      "meta_data": {
+        "description": "This course focuses on the development of vocabulary, understand correct forms and word order as well as write simple and connected sentences."
+      }
+    },
+    {
+      "title": "Beginner Grammar",
+      "meta_data": {
+        "description": "<p> This course focuses on the use of tenses including present and present progressive tense as well as the simple past. Along with irregular verbs, the basic sentence structure, the eight parts of speech, and the application of grammar in simple sentences and basic paragraphs are introduced.</p>"
+      }
+    },
+    {
+      "title": "Intermediate Grammar",
+      "meta_data": {
+        "description": "<p> This course focuses on the applications of tenses. Reflexive nouns, modals, and the passive voice are also discussed in length. Gerunds, infinitives, and embedded clauses are taught as well.</p>"
+      }
+    },
+    {
+      "title": "Advanced Grammar",
+      "meta_data": {
+        "description": "This course builds upon the grammar forms studied in the previous levels. It helps students to extend their knowledge on more intricate rules of grammar, conditionals and preferences. It also incorporates various clause types, indirect speech, passive voice, and perfect modals. In the end, you’ll be able to compose grammatically correct and comprehensible sentences, paragraphs, and essays."
+      }
+    }
+  ],
+  "description": "<p>This major focuses on the vocabulary development and grammar development.  By the end of this major, Students will be able to compose grammatically correct and comprehensible sentences, paragraphs, and essays with a very good vocabulary.</p> ",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Basic Vocabulary</p>",
+    "Word Order",
+    "Tenses and Types of Tenses",
+    "Reflexive Nouns",
+    "Passive Voice and Sentences"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

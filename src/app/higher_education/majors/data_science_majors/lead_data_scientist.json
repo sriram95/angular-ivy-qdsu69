@@ -1,0 +1,16 @@
+{
+  "amount": "7499",
+  "courses": [
+  ],
+  "description": "<p> Now we've taken ML and AI classes, and we know the models to solve business problems. However, when we look at a large-scale machine learning application, the modifications have to be changed slightly and in different ways to run faster and more efficiently. This major will cover statistical and optimization techniques that improve performance by leveraging the underlying hardware systems' capabilities.</p> <p> Modeling is about guiding a solution through multiple iterations while working with varied stakeholders. This major applies agile approaches to guide the dev and ML teams through cycles while managing the business needs and integrating customer insight along the way with utmost efficiency and effectiveness. This also refers to the ways agile projects manage risks using Agile frameworks. With this, students will be equipped to better integrate risk management into model planning and development to be executed while mitigating risks.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Save & Load Model",
+    "Product Owner Rule",
+    "Agile Planning Overview",
+    "Release planning and Tracking",
+    "Communication in Organizations & Strategic Communication",
+    "Group Discussion Skills" 
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

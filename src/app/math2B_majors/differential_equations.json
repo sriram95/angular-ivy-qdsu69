@@ -1,0 +1,20 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Introduction to Differential Equations",
+      "meta_data": {
+      "description": "This course aims to present various differential equations types followed by Bernoulli's equations."
+      }
+    }
+  ],
+  "description": "<p>A differential equation is an equation that contains one or more terms and the derivatives of one variable (i.e., dependent variable) concerning the other variable. In other words, describing how things change in our world often ends up as a Differential Equation. More precisely, Differential Equations can describe how populations change, how heat moves, how springs vibrate, how radioactive material decays and much more. In this major we will understand what is differential equations, different types of equations and finally Bernoulli's Equation.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Homogeneous Differential Equations",
+    "Nonhomogeneous Differential Equations",
+    "Linear Differential Equations",
+    "Bernoulli’s Equation"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

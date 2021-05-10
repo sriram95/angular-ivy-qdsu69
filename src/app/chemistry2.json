@@ -1,0 +1,33 @@
+{
+  "amount": "1200",
+  "majors": [
+    {
+      "title": "Physical chemistry II",
+      "meta_data": {
+        "description": "Physical chemistry is the study of how matter behaves on a molecular and atomic level and how chemical reactions occur. Building on the first year Chemistry, Physical Chemistry II major covers essential topics like elementary statistical mechanics, transport properties, kinetic theory, solid-state, reaction rate theory, and chemical reaction dynamics."
+      }
+    },
+    {
+      "title": "Inorganic chemistry II",
+      "meta_data": {
+      "description": "This major deals with Inorganic chemistry in assessing the properties and reactivity of all chemical elements. Building on the electronic Structure from the previous year, the electronic, vibrational, and magnetic properties of transition metal complexes are presented, and their investigation by the appropriate spectroscopy is described."
+    }
+    },
+    {
+      "title": "Organic chemistry II",
+      "meta_data": {
+      "description": "This Organic Chemistry major focuses on the methods used to identify the structure of organic molecules, advanced principles of organic stereochemistry, organic reaction mechanisms, and methods used to synthesize organic compounds. Additional special topics include illustrating the role of organic chemistry in biology, medicine, and industry."
+    }
+    }
+  ],
+  "description": "<p>Are you ready for the Class 12 Chemistry Exam? Are you best equipped to tackle IIT JEE, NEET, EAMCET, and other highly competitive entrance examinations? Don't worry! To help students prepare effectively and score better in the Chemistry section of entrance exams (e.g., IIT JEE), we provide a comprehensive set of video lectures, quizzes, exams, and assignments. At the same time, the emphasis is placed on problem-solving and quantitative reasoning.</p> <p>This program will build on the principles learned from Class 11 Chemistry, covering three branches in chemistry: physical chemistry, inorganic chemistry, and organic chemistry.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Atomic Structure",
+    "Chemical Bonding",
+    "Stoichiometry",
+    "S-Block Elements",
+    "Environmental Chemistry"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

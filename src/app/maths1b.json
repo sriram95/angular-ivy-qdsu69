@@ -1,0 +1,25 @@
+{
+  "amount": "1200",
+  "majors": [
+    {
+      "title": "Coordinate Geometry",
+      "meta_data": {
+      "description": "Coordinate geometry (or analytic geometry) is the study of geometry using coordinate points. In this major, we will be learning about coordinate geometry and its components such as Lines, Pairs of Lines, Straight Lines, 3D Geometry, Limits, Continuity, and Differentiation."
+      }
+    }
+  ],
+  "description": "<p>This program introduces coordinate geometry, where we will learn about lines, types of lines, pairs of lines, 3D Geometry, direct cosine and direct rotations, Planes, limits, and continuity.  These concepts will help us to understand various geometrical shapes and how to calculate and derive them.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Perpendicular Theorem",
+    "Area of the Triangle and Centroid",
+    "Second Degree Equation",
+    "Line Slopes and Forms",
+    "Equations of Line in Intercept form",
+    "Point Slope form and Two-point form Lines",
+    "Point Positional Intersection and Half-Plains",
+    "Cosine Law Derivation",
+    "Triangle Centroid and Tetrahedron"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

@@ -1,0 +1,26 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Ray Optics",
+      "meta_data": {
+      "description": "Geometrical optics, or ray optics, is a model of optics that describes light propagation in terms of rays. The ray in geometric optics is an abstraction useful for approximating the paths that light propagates under certain circumstances. In this course, we will be discussing reflection, refraction and dispersion in detail."
+      }
+    },
+    {
+      "title": "Wave Optics",
+      "meta_data": {
+      "description": "In physics, physical optics, or wave optics, the branch of optics studies interference, diffraction, polarization, and other phenomena for which the ray approximation of geometric optics is not valid. In this course, we will be discussing diffraction as well as light waves polarization in detail."
+      }
+    }
+  ],
+  "description": "<p>Optics is the branch of physics that studies light's behavior and properties, including its interactions with matter and the construction of instruments that use or detect it. Optics usually describes the behavior of visible, ultraviolet, and infrared light. In this major, we will be discussing wave optics and ray optics.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Refraction",
+    "Total internal reflection",
+    "Dispersion",
+    "Wave interference theory"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

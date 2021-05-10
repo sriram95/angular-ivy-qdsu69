@@ -1,0 +1,38 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Solid State",
+      "meta_data": {
+        "description": "Solid State is one of the states of matter. In our early days of schooling, we have learned that matter exists in three states – solid, liquid, and gas. In this course, we will be dealing with the concept of solid-state, including the properties and types of solids."
+      }
+    },
+    {
+      "title": "Solutions",
+      "meta_data": {
+      "description": "A solution is a homogeneous mixture of two or more substances. The naked eye cannot see the particles of solute in a solution. A solution does not allow beams of light to scatter. A solution is stable. The solute from a solution cannot be separated by filtration (or mechanically)."
+      }
+    },
+    {
+      "title": "Surface Chemistry",
+      "meta_data": {
+      "description": "Surface Chemistry is the study of the chemical phenomena at the interface of two surfaces: solid-liquid, solid-gas, solid-vacuum, liquid-gas, and so on. Some applications of Surface Chemistry are known as Surface Engineering."
+      }
+    },
+    {
+      "title": "Metallurgy",
+      "meta_data": {
+      "description": "Metallurgy is a domain of Materials Science and Engineering, which studies the physical and chemical behavior of metallic elements, their inter-metallic compounds, and their mixtures, called alloys. This course will understand metallurgy and various metallurgical processes such as magnetic separation method and blast furnace method."
+    }
+    }
+  ],
+  "description": "<p>Physical chemistry is the study of how matter behaves on a molecular and atomic level and how chemical reactions occur. Building on the first year Chemistry, Physical Chemistry II major covers essential topics like elementary statistical mechanics, transport properties, kinetic theory, solid-state, reaction rate theory, and chemical reaction dynamics.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Solid State",
+    "Solutions",
+    "Surface Chemistry",
+    "Various Magnetic Separation Methods"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

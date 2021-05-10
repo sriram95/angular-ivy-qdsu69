@@ -1,0 +1,18 @@
+{
+  "amount": "7499",
+  "courses": [
+    2418,
+    2417,
+    2416,
+    2415,
+    2414
+  ],
+  "description": "<p>The Internet has only been limited to computers but the evolution in the small electronic devices in a way that they can be connected has led to innovations in many areas. Internet Of Things has found its way from simple home automation to Agriculture to sophisticated cyber-physical systems. Many routine and time-sensitive things are being automated because of IoT technologies. Automation is possible via connecting components like sensors to an IoT device so that the device can operate/enable things to do a specific job. For example, in Agriculture, Moisture sensors are placed in soil to water the crops based on the moisture in the soil.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "IOT Application Areas",
+    "Mobile Devices",
+    "Cloud and Sensor Networks"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

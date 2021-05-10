@@ -1,0 +1,39 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "S-Block Elements",
+      "meta_data": {
+      "description": "The S-Block elements having only one electron in their S-Orbital are called Group One or Alkali Metals. In contrast, the s block elements having two electrons filling their S-Orbital are called Group Two or Alkaline Earth Metals. The electrons present in an atom occupy various sub-orbitals of available energy levels to increase energy. The last electron may find itself in either the s, p, d, and f subshells. Accordingly, the elements of the atom having their last valence electron present in the s-suborbital are called the s block elements, which will be reviewed in detail in this course."
+      }
+    },
+    {
+      "title": "Group-13 Elements",
+      "meta_data": {
+      "description": "The Boron Group is the chemical element in Group 13 of the periodic table, comprising Boron, Aluminum, Gallium, Indium, Thallium, and perhaps also the chemically uncharacterized Nihonium. In this course, we will be learning about Boron, its physical, chemical, and anomalous properties."
+      }
+    },
+    {
+      "title": "Group-14 Elements",
+      "meta_data": {
+      "description": "A carbon group element, any of the six chemical elements that make up Group 14 of the periodic table—namely, Carbon (C), Silicon (Si), Germanium (Ge), Tin (Sn), Lead (Pb), and Flerovium (Fl). In this course, we will study Carbon and its properties."
+      }
+    },
+    {
+      "title": "Environmental Chemistry",
+      "meta_data": {
+      "description": "Environmental chemistry is the scientific study of the chemical and biochemical phenomena that occur in natural places. It should not be confused with green chemistry, which seeks to reduce potential pollution at its source. In this course, we will learn about atmospheres and various types of pollution."
+      }
+    }
+  ],
+  "description": "<p>Inorganic chemistry is the study of the elements' synthesis, reactions, structures, and properties of compounds. This subject is usually taught after students are introduced to organic chemistry, which concerns the synthesis and reactions of Carbon compounds (typically containing C-H bonds).</p> <p>Inorganic chemistry encompasses the compounds - both molecular and extended solids - of everything else in the periodic table. It overlaps organic chemistry in organometallic chemistry, in which metals are bonded to carbon-containing ligands and molecules. In this major, we will be learning about various elements in the periodic table.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Block Elements Understanding & Analysis",
+    "Lithium Elements Analysis",
+    "Boron Elements Analysis",
+    "Group-13 Elements",
+    "Group-14 Elements"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

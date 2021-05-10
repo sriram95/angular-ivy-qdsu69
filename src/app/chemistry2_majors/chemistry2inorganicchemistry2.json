@@ -1,0 +1,53 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Group-16 Elements",
+      "meta_data": {
+        "description": "The group 16 elements of the modern periodic table consist of 5 elements: Oxygen, Sulphur, Selenium, Tellurium, and Polonium. In this course, we will study these elements that are also known as the chalcogens or the ore-forming elements because many elements can be extracted from the Sulphide or Oxide Ores."
+      }
+    },
+    {
+      "title": "Group-17 Elements",
+      "meta_data": {
+      "description": "Halogens are highly reactive non-metals. These elements greatly resemble in property with each other. Group 17 elements are collectively called halogens (In Greek: halo means salt and genes mean producing, so collectively salt-producing), and it consists of Fluorine, Chlorine, Bromine, Iodine, and Astatine. In this course, we will be studying these elements in more detail."
+      }
+    },
+    {
+      "title": "Group-18 Elements",
+      "meta_data": {
+      "description": "Members of group 18 in the modern periodic table are known as the Noble Gases. A Noble Gas, any of the seven chemical elements that make up Group 18 of the periodic table. We will be assessing Group 18 in this course, which include are Helium (He), Neon (Ne), Argon (Ar), Krypton (Kr), Xenon (Xe), Radon (Rn), and Oganesson (Og)."
+      }
+    },
+    {
+      "title": "D-Block Elements",
+      "meta_data": {
+      "description": "D block elements are the elements that can be found from the third group to the twelfth group of the modern periodic table. We will be assessing these D block elements in this course, which are also referred to as transition elements or transition metals."
+    }
+    },
+    {
+      "title": "F-Block Elements",
+      "meta_data": {
+      "description": "F block elements are divided into two series, namely Lanthanoids and Actinoids. In this course, we will be studying these blocks of elements that are often referred to as inner transition metals."
+    }
+    },
+     {
+      "title": "Coordination Compounds",
+      "meta_data": {
+      "description": "Coordination compounds are molecules that possess one or multiple metal centers bound to Ligands (atoms, ions, or molecules that donate electrons to the metal). These complexes can be neutral or charged. In this course, we will be learning about coordination compounds, their theories, and stability."
+    }
+    }
+  ],
+  "description": "<p>This major deals with Inorganic chemistry in assessing the properties and reactivity of all chemical elements. Building on the electronic Structure from the previous year, the electronic, vibrational, and magnetic properties of transition metal complexes are presented, and their investigation by the appropriate spectroscopy is described.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Introduction to Chalcogens",
+    "Ozone",
+    "Sulphur Allotropes",
+    "Vitrol",
+    "Halogen",
+    "Hydrogen Chloride",
+    "Xenon"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

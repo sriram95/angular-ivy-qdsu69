@@ -1,0 +1,18 @@
+{
+  "amount": "7499",
+  "courses": [
+2386,
+2385,
+2384,
+2383,
+2382
+  ],
+  "description": "<p>The World Wide Web hosts some millions of terabytes of data that is impossible to search if you use a directory-based search. Search Engines evolved into more than just semantics. Pulling up relevant results in a few milliseconds requires more than Crawling, Understanding about us. This major deals with the technologies/various methods used in finding relevant information on the web. The objective of this major is to understand the existing techniques of search engines and use mathematical models to build a fair search engine.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Given a set of documents, find the term frequency & document frequency",
+    "Create an inverted index for a set of documents",
+    "Design and implement a secondary index for a set of documents"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

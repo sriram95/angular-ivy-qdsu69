@@ -1,0 +1,20 @@
+{
+  "amount": "7499",
+  "courses": [
+2358,
+2357,
+2356,
+2355,
+2354
+  ],
+  "description": "<p>Analytics are useful for decision-making at various levels by understanding the patterns. Traditional Business Intelligence tools that are being used for these purposes for some years won't serve the purpose when the data gets big. This is when several tools in Big Data Analytics come to the rescue. The main objectives of this major are to help you with advanced analytics like regression analysis, classification techniques, clustering techniques, association rule mining. Further, this course also enables the students how to scale the above algorithms with different data environments like massive amounts of data, streaming data, distributed data, and provide hands-on experience on real-world problems using the above theoretical background. /p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Introduction to Big Data",
+    "Data Analysis",
+    "Mining Data Streams",
+    "Frequent Item Sets",
+    "Frameworks and Visualizations"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

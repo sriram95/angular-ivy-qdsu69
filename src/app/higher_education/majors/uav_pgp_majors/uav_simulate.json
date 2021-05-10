@@ -1,0 +1,16 @@
+{
+  "amount": "7499",
+  "courses": [
+    2002,
+    2003,
+    2004
+  ],
+  "description": "<p>In this major, we will go through ways to talk to a quadcopter mathematically. We will understand methods to create equations for quadcopter maneuvering, do rigid body displacement, and build the quadcopter movements.</p> <p> More precisely, we will provide the basic knowledge required for accurate mathematical modeling of a quadcopter UAV flight. These include the kinematics and dynamics of motion and the transformation of forces and moments acting on the airplane. In the process, we will simulate the quadcopter, which involves a device that artificially re-creates UAV flight and the environment in which it flies as per requirements. </p> <p> As a final project, we will create and develop equations for a quadcopter.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Dynamic equations of motion",
+    "UAV Kinematics",
+    "UAV Dynamics"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

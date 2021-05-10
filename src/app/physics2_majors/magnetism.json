@@ -1,0 +1,26 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Moving Charges and Magnetism",
+      "meta_data": {
+      "description": "Moving charges or flow of charge causes magnetism. Notes of Moving Charges and Magnetism explain that magnetic fields further exert forces on the flow of charge, which in turn exerts a force on other magnets. Such a phenomenon takes place because of the presence of consistent moving charges. In this course, we will discuss Solenoid, Parallel Vector Forces, and Ampere-Circuital Law, and other relevant topics in detail."
+      }
+    },
+    {
+      "title": "Magnetism and Matter",
+      "meta_data": {
+      "description": "All matter shows magnetic properties when positioned in an external magnetic field. It is true even for substances like aluminum or copper, which usually do not exhibit magnetic properties."
+      }
+    }
+  ],
+  "description": "<p>Magnetism is the force exerted by magnets when they attract or repel each other. The motion of electric charges causes magnetism. Every substance is made up of tiny units called atoms. Each atom has electrons, particles that carry electric charges. In this major, we will discuss Moving Charges, Magnetism, and Matter.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Solenoid",
+    "Parallel Vector Forces",
+    "Biot-Savart Law",
+    "Force Acting on the Charge"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

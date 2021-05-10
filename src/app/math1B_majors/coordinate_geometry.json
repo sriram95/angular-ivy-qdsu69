@@ -1,0 +1,34 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "3D Geometry",
+      "meta_data": {
+        "description": "3D geometry involves the mathematics of shapes in 3D space and involving three coordinates: x-coordinate, y-coordinate and z-coordinate. In a 3d space, three parameters are required to find the exact location of a point. In this course, we will be learning about 3D Geometry, Locus equations, and suitable examples."
+      }
+    },
+    {
+      "title": "Direct Cosines & Ratios",
+      "meta_data": {
+      "description": "This course aims to present direct cosines and direct ratios, followed by the angle between the lines."
+      }
+    },
+    {
+      "title": "Limits & Continuity",
+      "meta_data": {
+      "description": "The concept of the limit is one of the most crucial things to understand to prepare for Calculus. A Limit is a number that a function approaches as the function's independent variable approaches a given value. Continuity is another far-reaching concept in Calculus. A function can either be continuous or discontinuous. In this course, we will see about Limits and Continuity followed by suitable examples."
+      }
+    }
+  ],
+  "description": "<p>Coordinate geometry (or analytic geometry) is the study of geometry using coordinate points. In this major, we will be learning about coordinate geometry and its components such as Lines, Pairs of Lines, Straight Lines, 3D Geometry, Limits, Continuity, and Differentiation.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Perpendicular Theorem",
+    "Area of the Triangle and Centroid",
+    "Second Degree Equation",
+    "Line Slopes and Forms",
+    "Equations of Line in Intercept form",
+    "Cosine Law Derivation"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

@@ -1,0 +1,20 @@
+{
+  "amount": "7499",
+  "courses": [
+    2158,
+    2159,
+    2160,
+    2161,
+    2011,
+    2101,
+    2012,
+    2162
+  ],
+  "description": "<p>This major provides students exceptional training to assess processes, determine requirements, and deliver executives' data-driven recommendations. In the first part of the major, we focus on deriving and cleaning the data to develop insights. In the second part, we focus on using visualization tools like Tableau to support decision-making given business constraints.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Sampling & Measurement",
+    "Introduction to Python"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

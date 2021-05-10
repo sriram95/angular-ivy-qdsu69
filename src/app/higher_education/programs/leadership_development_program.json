@@ -1,0 +1,40 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "Leading Yourself",
+      "meta_data": {
+      "description": "Leading yourself means holding yourself accountable to a personal set of values, beliefs and goals. It means acting with integrity, when know one else is looking (or even cares). This major aims your ability to achieve subsequent leadership milestones: learning to lead others and learning to lead an organization or community requires you to first be willing and able to lead yourself."
+      }
+    },
+    {
+      "title": "Leading Teams",
+      "meta_data": {
+      "description": "In this major, you will learn how to build your team, improve teamwork and collaboration, and sustain team performance through continuous learning and improvement. Specifically, you will learn best practices for composing a team and aligning individual and team goals. You will also learn how to establish roles, build structures, and manage decision making so that your team excels. This major will also help you manage critical team processes such as conflict resolution and building trust that have a profound impact on your team’s performance. You will discuss some of the best ways to harness the productive potential of teams while mitigating the risks and traps of teamwork."
+      }
+    },
+    {
+      "title": "Leading Companies",
+      "meta_data": {
+      "description": "This major will help you understand the industry research, identify various problem solving techniques and also pursue innovation in teams."
+      }
+    }
+  ],
+  "description": "<p>Developing a strong leadership team often begins with creating an internal leadership training program, founded on sound business principles and practices. The 2016 McQuaig Global Talent Recruitment Report found that companies with strong leaders are few and far between, but those that do invest in their leaders see a positive impact on recruitment and retention of the best talent. </p> <p> Teams are increasingly used to innovate, manage activities and projects and deliver timely profits. Strong teams require skilled leadership, attention to process, innovative ideas, excellent communication, and an appreciation for different skills and work styles. </p> <p> Yet, Corporations today are struggling to develop people who can effectively work, create build and manage teams. This program focuses on learnings and best practices in team formation, working on a team, leading teams, and managing multiple teams.</p> <p> Throughout the course we use readings, discussion, cases, action learning exercises, and team project as a platform to dissect common team issues and strategies and tactics to overcome these challenges </p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Import Data",
+    "Understand Data",
+    "Analyse Data",
+    "Clean Data",
+    "Preprocess data",
+    "Perform Regression Models",
+    "Perform Classification Models",
+    "Visualize Data",
+    "Productionize Data",
+    "Project Management",
+    "Team Communications",
+    "Research Techniques"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

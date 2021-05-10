@@ -1,0 +1,31 @@
+{
+  "amount": "7499",
+  "courses": [
+    {
+      "title": "Team Building",
+      "meta_data": {
+        "description": "Team building is the process of turning a group of individual contributing employees into a cohesive team, a group of people organized to work together to meet the needs of their customers by accomplishing their purpose and goals. This course will help you build good teams."
+      }
+    },
+    {
+      "title": "Team Problem-Solving",
+      "meta_data": {
+        "description": "This course aims to solve problems as a team improves the chances of coming up with the best solution or result. When people work together they can share and compare ideas and choose the one that best solves the problem."
+      }
+    },
+    {
+      "title": "Team Collaboration",
+      "meta_data": {
+        "description": "Today we can’t but admit that the Information Age has changed the way we live, think and work. Teams within a company are no longer bound to a single location or time zone. Orders and responses have moved from being vertical in a company’s hierarchy, allowing teams to make their own decisions, share responsibilities and celebrate successes together. This course aims to present various techniques."
+      }
+    }
+  ],
+  "description": "<p>In this major, you will learn how to build your team, improve teamwork and collaboration, and sustain team performance through continuous learning and improvement. Specifically, you will learn best practices for composing a team and aligning individual and team goals. You will also learn how to establish roles, build structures, and manage decision making so that your team excels. This major will also help you manage critical team processes such as conflict resolution and building trust that have a profound impact on your team’s performance. You will discuss some of the best ways to harness the productive potential of teams while mitigating the risks and traps of teamwork. </p> ",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Clarity: A deep knowledge about who you are (your values and beliefs) and what you want (your goals and objectives). In other words, self-awareness.",
+    "Integrity: Taking action (not just thinking about it) in a manner that is consistent with those beliefs and values",
+    "Courage: The prerequisite of integrity; a willingness to sacrifice your own personal well-being in order to act in a way that is true to your beliefs and values"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

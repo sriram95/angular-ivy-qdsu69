@@ -1,0 +1,15 @@
+{
+  "amount": "7499",
+  "courses": [
+    2133,
+    2134
+  ],
+  "description": "<p>This major takes you ways to build the product requirements document (PRD), which communicates the capabilities to be included across product releases to development and quality teams. At the same, the PRD serves as an artifact for any designer, developer, or stakeholder to understand the product's status and purpose.</p> ",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "PRDs Development",
+    "PRD Execution",
+    "PRD Management"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

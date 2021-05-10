@@ -1,0 +1,27 @@
+{
+  "amount": "1200",
+  "majors": [
+    {
+      "title": "Physical chemistry I",
+      "meta_data": {
+      "description": "This major is about physical chemistry concepts that cover Thermodynamics, Chemical Kinetics, and Kinetic Molecular Theory. In our study of Thermodynamics (Thermodynamics comes from the Greek words for heat and power), we shall be looking at the first and second laws of Thermodynamics as they apply to volume-pressure processes and energy changes associated with chemical reactions. The topics in Chemical Kinetics will look at rate laws and factors affecting the rates of chemical reactions. In molecular kinetic theory, we shall explain the general behavior of gases from a molecular perspective."
+      }
+    },
+    {
+      "title": "Inorganic chemistry I",
+      "meta_data": {
+      "description": "Inorganic chemistry encompasses the compounds - both molecular and extended solids - of everything else in the periodic table. It overlaps organic chemistry in organometallic chemistry, in which metals are bonded to carbon-containing ligands and molecules. In this major, we will be learning about various elements in the periodic table."
+      }
+    }
+  ],
+  "description": "<p>Are you ready for the Class 11th Chemistry Exam? Are you best equipped to tackle IIT JEE, NEET, EAMCET, and other highly competitive entrance examinations?Don't worry! To help students prepare effectively and score better in the Chemistry section of entrance exams (e.g., IIT JEE), we provide a comprehensive set of video lectures, quizzes, exams, and assignments. At the same time, the emphasis is placed on problem-solving and quantitative reasoning.</p> <p>Chemistry is the study of the properties, structure, behavior, and reactivity of the matter. As the central science, chemistry has connections to fields from physics to biology, from environmental science to nanoscience.</p>. <p>A fundamental understanding of chemistry is the basis on which cutting-edge research in many fields’ rests. This program is designed to build core skills in chemistry, including drawing chemical structures and predicting molecular properties and reactivities, as well as to gain the necessary fundamental knowledge for advanced courses such as Organic Chemistry, Physical Chemistry, and Inorganic Chemistry.</p> <p>This chemistry program is the first in two courses that together cover first-year, University-level chemistry. In this program, you will uncover the principles of chemical bonding in how it historically occurred: starting from the first experiments that revealed the fundamental dual wave-particle nature of energy and matter.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Atomic Structure",
+    "Chemical Bonding",
+    "Stoichiometry",
+    "S-Block Elements",
+    "Environmental Chemistry"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

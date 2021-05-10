@@ -1,0 +1,22 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Probability Distribution",
+      "meta_data": {
+      "description": "This course will give you a deep understanding of what is probability and some examples involving chance."
+      }
+    }
+  ],
+  "description": "<p> Probability is the branch of mathematics concerning numerical descriptions of how likely an event occurs or how likely it is that a proposition is true. The probability of an event is a number between 0 and 1, where, roughly speaking, 0 indicates the event's impossibility and 1 indicates certainty. This major will provide you with a basic, intuitive, and practical introduction to Probability Theory. We will learn how to apply Probability Theory in different scenarios and earn a toolbox of methods to deal with uncertainty in your daily life.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Multiple Roots or Repeated Roots",
+    "Transformations of Equations",
+    "Removal Theorems",
+    "Trinomial Expansion",
+    "Improper Fraction",
+    "Power Series Expansion"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

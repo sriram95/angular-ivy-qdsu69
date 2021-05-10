@@ -1,0 +1,23 @@
+{
+  "amount": "7499",
+  "courses": [
+    2163,
+    2164,
+    2102,
+    2103,
+    2014
+  ],
+  "description": "<p>This major provides students with foundations to understand and apply statistical methods to drive value for the firm. It starts with helping students to think critically about data and the statistical analyses that can be carried out for creating value. Lastly, it helps students identify opportunities and post analytics, estimate the value made addressing particular opportunities.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Data Visualization Using Python",
+    "Tableau",
+    "Bivariate Regression",
+    "Multivariate Regression",
+    "Clustering Models"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}
+
+
+

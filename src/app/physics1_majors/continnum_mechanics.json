@@ -1,0 +1,25 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Mechanical properties of solids",
+      "meta_data": {
+      "description": "A material is said to be in the solid-state if all the atoms of that Matter are densely packed together. A solid material has a definite shape and size. To change the shape and size of the solid object, an external force needs to be applied."
+      }
+    },
+    {
+      "title": "Fluids",
+      "meta_data": {
+      "description": "Fluids, any liquid or gas or generally any material that cannot sustain a tangential or shearing force when at rest and undergoes a continuous change in shape when subjected to such stress."
+      }
+    }
+  ],
+  "description": "<p>Continuum Mechanics is all about using linear algebra, with some calculus thrown in, to describe the deformations (strains) in objects and relate them to the resulting stresses. This is represented by the popular figure to the right showing an object in both its undeformed and deformed states. Continuum Mechanics provides the toolbox of methods needed to accomplish all the nuts-and-bolts calculations of structural analysis, whether it performs coordinate transformations, applying material derivatives, or extracting principal stresses. In this major, we will discuss the Mechanical properties of solids and Fluids.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Centre of mass",
+    "Phase",
+    "Energy"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

@@ -1,0 +1,58 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "Data Analyst",
+      "meta_data": {
+      "description": "This major will help you design and maintain Big Data systems, which also involves fixing missing data, outliers, and other data-related aspects. It will also help you understand mining and reconciling data from varied sources various modules in python, such as pandas, sklearn to interpret data sets more accurately."
+      }
+    },
+    {
+      "title": "Data Scientist",
+      "meta_data": {
+      "description": "This major aims to provide students with capabilities in building and analyzing regression models to solve business problems. We will carry out a brief review of regression modeling, including model selection, interaction effects, nonlinear effects, classification problems, and forecasting to solve specific business problems through statistical analysis."
+      }
+    },
+    {
+      "title": "Machine Learning Specialist",
+      "meta_data": {
+      "description": "This major introduces machine learning topics covering generative and discriminative estimations. It will help students analyze large data sets and perform highly complex tasks. We will review ways to make technologies possible such as speech recognition, internet search, bioinformatics and recommender systems, and driverless cars."
+      }
+    },
+    {
+      "title": "Machine Learning Expert",
+      "meta_data": {
+      "description": "This major will review advanced machine learning topics, covering a wide range of different models and learning algorithms. We will evaluate varying speed-accuracy-interpretability tradeoffs by covering issues like Dimension Reduction, Maximum Entropy, Exponential Family Models, SVMs, Graph-Based Semi-Supervised Learning, Approximate Inference, Clustering, and Boosting."
+      }
+    },
+    {
+      "title": "AI Specialist",
+      "meta_data": {
+      "description": "Deep Learning is one of the most highly sought-after skills in AI. In this major, we will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. We will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more."
+      }
+    },
+    {
+      "title": "Lead Data Scientist",
+      "meta_data": {
+      "description": "Lead Data Scientist responsibilities include managing the data science team, planning projects and building analytics models. In the previous majors we learnt how to build analytics models. In this major we will learn how to productionize your model on Google Cloud, AWS or any other server. We will be understanding the pickle module and how to save your model. We will learn how to perform project management, how to communicate with your peers and your team and finally you will also learn research methodologies followed by a data science challenge."
+      }
+    }
+  ],
+  "description": "<p>Data science is a dynamic field that’s becoming increasingly valuable to many companies, small, large and mid-size. From capturing data to communicating results, data scientists play an important role in helping businesses make strategic decisions and optimize outcomes. Where it traditionally encompassed data mining, programming skills, and analyzing sets of data, data science today is expansive and involves looking at the entire data science life cycle. </p> <p> This skills-based program is intended for learners to have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networks to gain insight into their data. </p> <p> Pre-requisites: Basic Excel, Linear Algebra, Basic Python Programming Language.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Import Data",
+    "Understand Data",
+    "Analyse Data",
+    "Clean Data",
+    "Preprocess data",
+    "Perform Regression Models",
+    "Perform Classification Models",
+    "Visualize Data",
+    "Productionize Data",
+    "Project Management",
+    "Team Communications",
+    "Research Techniques"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

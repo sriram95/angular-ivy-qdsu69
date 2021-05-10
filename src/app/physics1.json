@@ -1,0 +1,39 @@
+{
+  "amount": "1200",
+  "majors": [
+    {
+      "title": "Kinematics",
+      "meta_data": {
+      "description": "In this major, we will discuss Motion in a straight line and Motion in a plane, followed by the next major, Laws of Motion."
+      }
+    },
+    {
+      "title": "Dynamics",
+      "meta_data": {
+      "description": "Dynamics is the branch of mechanics that deals with the effect that forces have on the motion of objects. In contrast, statics is the study of forces without motion. In this major, we will mainly discuss the Laws of Motion and Work, Energy and Power."
+      }
+    },
+    {
+      "title": "Rotation",
+      "meta_data": {
+      "description": "A rotation is a circular movement of an object around a center of rotation. The geometric plane along which the rotation occurs is called the rotation plane, and the imaginary line extending from the center and perpendicular to the rotation plane is called the rotation axis. This major will discuss systems of particles and rotational motion, oscillations, and Gravitation."
+      }
+    },
+    {
+      "title": "Continuum Mechanics",
+      "meta_data": {
+      "description": "Continuum Mechanics is all about using linear algebra, with some calculus thrown in, to describe the deformations (strains) in objects and relate them to the resulting stresses. This is represented by the popular figure to the right showing an object in both its undeformed and deformed states. Continuum Mechanics provides the toolbox of methods needed to accomplish all the nuts-and-bolts calculations of structural analysis, whether it performs coordinate transformations, applying material derivatives, or extracting principal stresses. In this major, we will discuss the Mechanical properties of solids and Fluids."
+      }
+    }
+  ],
+  "description": "<p>Are you ready for the Class 11 Physics Exam? Are you best equipped to tackle IIT JEE, NEET, EAMCET, and other highly competitive entrance examinations?Don't worry! To help students prepare effectively and score better in the Physics section of entrance exams (e.g., IIT JEE), we provide a comprehensive set of video lectures, quizzes, exams, and assignments.</p> <p>At the same time, the emphasis is placed on problem-solving and quantitative reasoning.Physics is the branch of science that deals with the Structure of Matter and how the fundamental constituents of the universe interact. It studies objects ranging from the very small using quantum mechanics to the entire universe using general relativity.</p> <p>This program covers the detailed concepts of physics such as Kinematics, Dynamics, Rotations, Oscillations, Statistical Mechanics, Continuum Mechanics and Fluids.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Motion in a Straight Line",
+    "Motion in a Plane",
+    "Laws of Motion",
+    "Work, Energy, and Power",
+    "Oscillations"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

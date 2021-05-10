@@ -1,0 +1,31 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "Profile Development",
+      "meta_data": {
+      "description": "This major introduces students to an in-depth understanding of planning and organizing job search strategies. Emphasis will be placed on resume development as well as profile development across social media channels."
+      }
+    },
+    {
+      "title": "Communications & Relationships",
+      "meta_data": {
+      "description": "This major aims to present various networking techniques such as how to communicate, where to communicate and whom to communicate with."
+      }
+    },
+    {
+      "title": "Interview Preparation",
+      "meta_data": {
+      "description": "This major equips students with the skills necessary to assess industry health and critical trends affecting its future. We will also conduct a deep dive into the position’s value chain requirements for an industry of your choice."
+      }
+    }
+  ],
+  "description": "<p>This Career Development program ensures students have the tools they need to continue growing post-graduation. It starts from preparing and vetting out your resume, cover letter and effectively prepare you for interviews through cases of real companies with large multinational enterprises. </p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Strategic thinking and a bent toward company specific analysis",
+    "Critical thinking",
+    "Process improvement to drive the company forwards"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

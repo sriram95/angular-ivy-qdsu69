@@ -1,0 +1,19 @@
+{
+  "amount": "7499",
+  "courses": [
+2393,
+2392,
+2391,
+2390,
+2389
+  ],
+  "description": "<p>While the computers are getting advanced and powerful processors are getting cheaper, the applications are also growing. To efficiently solve a problem that can theoritically consume more resources, we will need to optimize algorithms. Being strong with the fundamentals can help us in dealing with them.</p> <p> This major covers the basics of modern Computer Organization and Architecture. The emphasis is on understanding the design of computer and its components. The student will learn the concepts of data representation, micro operations, memory organizations and input output organization. Case study of 8086 helps the students to visualise the basic concepts of the major.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Learn Different Data Representations",
+    "Design digital circuitry for implementing different operations",
+    "Identify the types of memories and their uses",
+    "Study various data transfer mechanisms in digital computer and I/O"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

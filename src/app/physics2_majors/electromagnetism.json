@@ -1,0 +1,24 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Moving Charges and Magnetism",
+      "meta_data": {
+      "description": "The electromagnetic force is one of the four fundamental forces and exhibits electromagnetic fields such as magnetic fields, electric fields, and light. In this course, we will be learning Electromagnetic Induction, Alternating current, and Electromagnetic waves."
+      }
+    },{
+      "title": "Dual nature of Matter and Radiation",
+      "meta_data": {
+      "description": "It is the study of different nature that a matter possesses or exhibits. A matter can either display or have a particle nature or wave nature. Various experiments have further been conducted to prove this theory. In this course, we will understand those experiements and derive some conclusions "
+      }
+    }
+  ],
+  "description": "<p>Electromagnetism is a branch of Physics that deals with the electromagnetic force that occurs between electrically charged particles. The electromagnetic force is one of the four fundamental forces and exhibits electromagnetic fields such as magnetic fields, electric fields, and light. In this major, we will be learning Electromagnetic Induction, Alternating current, and Electromagnetic waves.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Faraday's Law and Induced EMF",
+    "Magnetic Flux",
+    "Photoelectric effect"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

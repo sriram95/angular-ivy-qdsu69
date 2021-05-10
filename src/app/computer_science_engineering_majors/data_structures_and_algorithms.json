@@ -1,0 +1,14 @@
+{
+  "amount": "7499",
+  "courses": [
+2387
+  ],
+  "description": "<p>While programming languages help us give instructions to computers, It is how we write them that matters. Applications use resources like memory and processing power and consume time to execute.If we want an application to run fast, we have to develop it in a way that it uses most of the memory (RAM for example). That is a tradeoff between Time and Space which you will see in the course. This course covers various concepts that illustrate such tradeoffs well.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Time and Space complexity Algorithms",
+    "Graphs and Tree Like Data Structures",
+    "Sorting and Searching Algorithms"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

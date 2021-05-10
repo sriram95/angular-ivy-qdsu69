@@ -1,0 +1,19 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Waves",
+      "meta_data": {
+      "description": "A wave is a disturbance in a medium that carries energy without a net movement of particles. It may take the form of elastic deformation, a variation of pressure, electric or magnetic intensity, electric potential, or temperature. In this course, we will be discussing the stationary waves, sound waves, and doppler effect in detail."
+      }
+    }
+  ],
+  "description": "<p>Acoustics is the science concerned with the production, control, transmission, reception, and effects of sound. The term is derived from the Greek akoustos, meaning heard. In this major, we will be primarily discussing waves.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Stationary waves",
+    "Sound waves",
+    "Doppler effect"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

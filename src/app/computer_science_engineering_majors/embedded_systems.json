@@ -1,0 +1,18 @@
+{
+  "amount": "7499",
+  "courses": [
+2367,
+2366,
+2365,
+2364
+  ],
+  "description": "<p>An embedded system is a microprocessor-based computer hardware system with software that is designed to perform a dedicated function. This major emphasizes the comprehensive treatment of embedded hardware and real-time operating systems along with case studies, in tune with the requirements of the Industry. The objective of this major is to enable the students to understand embedded-system programming and apply that knowledge to design and develop embedded solutions.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Understand the concept of Embedded Systems",
+    "Develop Embedded solutions",
+    "Write programs using Embedded C",
+    "Program ARM microcontroller to perform various tasks"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

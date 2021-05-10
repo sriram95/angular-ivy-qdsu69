@@ -1,0 +1,17 @@
+{
+  "amount": "7499",
+  "courses": [
+    2005,
+    2006,
+    2007
+  ],
+  "description": "<p>In the previous major, we discussed how to design and simulate a quadcopter. We need now are Controls, which enable quadcopters to achieve a task on their own despite disturbances.</p> <p> To accomplish this, the major on UAV Control aims to introduce the participants to how to create and design control laws across multiple dimensions to the participants. With this, we will be able to manipulate UAVs' position and orientation such that they can take-off, hover, and fly along a desired trajectory between waypoints and land autonomously.</p> <p> Subsequently, we will explore proportional, integral, and derivative control laws across various dimensions. As a final project, we will prepare a MATLAB simulation (or any software of your choice) on how to control your quadcopter, their control structure, and control fine-tuning. </p> <p> We will review UAVs across 1-2-3 dimensions to produce moments and forces on the vehicle first, position the helicopter in equilibrium such that the desired trim state is achieved, and control the helicopter's velocity and orientation. It hovers as desired with minimum error. </p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Three-dimension dynamic controllers",
+    "Develop linear controllers",
+    "Derive Control Laws",
+    "Perform Control Simulation"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

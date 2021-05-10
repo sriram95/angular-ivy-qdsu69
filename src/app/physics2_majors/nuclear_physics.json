@@ -1,0 +1,24 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Atoms",
+      "meta_data": {
+      "description": "An atom is the smallest unit of ordinary matter that forms a chemical element. Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms. Atoms are extremely small, typically around 100 picometers across."
+      }
+    },{
+      "title": "Nuclei",
+      "meta_data": {
+      "description": "The nucleus is a Latin word for the seed inside a fruit. It most often refers to the Atomic nucleus, the very dense central region of an atom—cell nucleus, a central organelle of a eukaryotic cell, containing most of its DNA."
+      }
+    }
+  ],
+  "description": "<p>Nuclear physics is the field of physics that studies atomic nuclei and their constituents and interactions. Other forms of nuclear matter are also reviewed. Nuclear physics should not be confused with atomic physics, which explores the atom as a whole, including its electrons. In this major, we will discuss Atoms and Nuclei.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "JJ Thomson's Model",
+    "Line spectra of the hydrogen atom",
+    "Types of Radioactive elements"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

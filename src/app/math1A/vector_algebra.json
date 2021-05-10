@@ -1,0 +1,19 @@
+{
+  "amount": "799",
+  "courses": [
+    {
+      "title": "Addition of Vectors",
+      "meta_data": {
+      "description": "In this course, we will learn how to add and subtract vectors, followed by suitable examples"
+      }
+    }
+  ],
+  "description": "<p>Vector algebra is one of the essential topics of algebra. It studies the algebra of vector quantities. As we know, there are two types of physical quantities, scalars, and vectors. The scalar quantity has only magnitude, whereas the vector quantity has both magnitude and direction. This course will study what a vector, its linear combinations, and some examples.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Special Function Types",
+    "Function Theorem",
+    "Matrix Concept"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

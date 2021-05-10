@@ -1,0 +1,15 @@
+{
+  "amount": "7499",
+  "courses": [
+    2008,
+    2009
+  ],
+  "description": "<p>So far, we have learned methods to design, simulate and control a UAV, primarily a quadcopter. In this major, we will understand ways to create motion planning and autonomous trajectories for quadcopters. With this, we'll ensure a vital guarantee to complete the autonomous flight by considering factors such as fuel consumption, maneuverability, arrival time, flight area, and threat level that typically emerge between the starting point and the ending point of the flight path of the aircraft. As a bonus, we will also learn the logic of creating SWARM robotics to control multiple UAVs together. </p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Enable quadcopters to perform agile maneuvers",
+    "Develop non-linear controllers",
+    "Operate synchronously as teams"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

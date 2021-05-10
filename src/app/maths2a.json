@@ -1,0 +1,29 @@
+{
+  "amount": "1200",
+  "majors": [
+    {
+      "title": "Algebra",
+      "meta_data": {
+      "description": "Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. In elementary algebra, those symbols (today written as Latin and Greek letters) represent quantities without fixed values, known as variables. In this major, we will understand algebra and various concepts underlying algebra."
+      }
+    },
+    {
+      "title": "Algebra",
+      "meta_data": {
+      "description": "Probability is the branch of mathematics concerning numerical descriptions of how likely an event occurs or how likely it is that a proposition is true. The probability of an event is a number between 0 and 1, where, roughly speaking, 0 indicates the event's impossibility and 1 indicates certainty. This major will provide you with a basic, intuitive, and practical introduction to Probability Theory. We will learn how to apply Probability Theory in different scenarios and earn a toolbox of methods to deal with uncertainty in your daily life."
+      }
+    }
+  ],
+  "description": "<p>Are you ready for the Class 12th Mathematics Exam? Are you best equipped to tackle IIT JEE, EAMCET, and other highly competitive entrance examinations?Don't worry! To help students prepare effectively and score better in the Mathematics section of entrance exams (e.g., IIT JEE), we provide a comprehensive set of video lectures, quizzes, exams, and assignments. At the same time, the emphasis is placed on problem-solving and quantitative reasoning.</p> <p>This program will focus largely on Algebra covering the concept of equations, theories of equations, permutations and combinations, binomial functions, partial fractions, and understanding the important functions of probability and random variables.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Complex Number Modulus",
+    "Complex Number Square Root",
+    "Types of Equation",
+    "Multiple Roots or Repeated Roots",
+    "Equations Theorem",
+    "Removal Theorems",
+    "Group Distribution"
+  ],
+  "certificate_issuer_name": "Vignan Junior College"
+}

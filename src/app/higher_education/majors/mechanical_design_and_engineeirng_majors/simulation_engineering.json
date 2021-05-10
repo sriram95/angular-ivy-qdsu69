@@ -1,0 +1,18 @@
+{
+  "amount": "7499",
+  "courses": [
+    2080,
+    2081,
+    2082,
+    2083
+  ],
+  "description": "<p>It is an industry targeted specialization with an appeal to students that are preparing for mechanical, design, manufacturing, biomedical, structural, geotechnical, and aerospace engineering careers. For the highly selected applicants from industry or national labs having demonstrated computational capabilities and the management support, it may be possible in the future to complete the entire curriculum using online resources.</p> <p>Simulation methods, such as the finite element method, meshfree, discrete and particle methods, and thermal/fluid dynamics, are powerful tools that are used extensively throughout all engineering disciplines to design products and reduce time to market by performing “virtual testing” on the computer before physical prototypes are built. Students in this program will acquire highly-marketable skills that are of great demand in several industry sectors.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Finite Element Analysis",
+    "Ansys CAE Simulation",
+    "Computational Fluid Dynamics",
+    "CFD in Ansys"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

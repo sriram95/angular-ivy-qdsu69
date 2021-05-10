@@ -1,0 +1,45 @@
+{
+  "amount": "14999",
+  "majors": [
+    {
+      "title": "Operations Management",
+      "meta_data": {
+      "description": "This major provides students with essential skills to critically analyze and execute firms' operating activities and practices with utmost efficiency and effectiveness. The major will cover concepts covering a wide variety of operations in different industries from diverse businesses. "
+      }
+    },
+    {
+      "title": "Retail Stores Efficacy",
+      "meta_data": {
+      "description": "Retailing is changing today disruptively. SMEs, as well as outlets, have to identify, adapt, and plan with these changes. This major will help you develop retail store strategies, personnel management, merchandise planning, pricing strategies to exceed customer expectations."
+      }
+    },
+    {
+      "title": "Services Operations Management",
+      "meta_data": {
+      "description": "Today, the service sector represents the largest segment of most G-20 nations. For example, in the U.S., it accounts for approximately 80% of GDP and employment. However, service operations are complex, given they involve distributed operations with a great deal of contact with the customer. This major will examine approaches and methodologies to achieve and maintain operational competitiveness in a service business. "
+      }
+    },
+    {
+      "title": "Supply Chain Management",
+      "meta_data": {
+      "description": "The courses and modules that will cover concepts from diverse industries to more and more on their supply chain partners due to globalized complexity, global economies of scale, and the importance of focusing on core competencies. At the same time, supply chains today involve everything and are stretched across continents spanned by road, rail, sea, air, and now, the internet has become increasingly complex. Companies like Walmart, Dell, Toyota, and others have achieved success with efficient and responsive supply-chain-management models. This major will focus on coordinating and integrating various activities into a seamless process while aligning incentives and strategies."
+      }
+    },
+    {
+      "title": "Operations Optimization",
+      "meta_data": {
+      "description": "This major incorporates analytics into operational decision-making processes starting from production and pre-sales to post-sales activities. We will introduce optimization in operations and then discuss ways to formulate decision-making problems as optimization models. We then shed light on methods used to solve these optimization models."
+      }
+    }
+  ],
+  "description": "<p>This program provides the student with a comprehensive understanding of operations, supply chain, and risk management. The way customers purchase – and even receive – their supplies and services have changed drastically. It will continue to evolve, and so the need for operations and supply chain professionals continues to grow more and with high-paying salaries.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_program_takeaways": [
+    "Operations Strategy",
+    "Queue Strategy",
+    "Retail Store Strategy",
+    "Services Operations",
+    "Supply Chain Management"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}

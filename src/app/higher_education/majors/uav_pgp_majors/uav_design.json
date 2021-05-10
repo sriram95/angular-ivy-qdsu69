@@ -1,0 +1,15 @@
+{
+  "amount": "7499",
+  "courses": [
+    2000,
+    2001
+  ],
+  "description": "<p>The UAV Design major aims to present UAVs' design principles and the components that comprise a complete unmanned aircraft system. More precisely, we will focus on quadcopters, critical design considerations, methodologies to design, analyze, and fly the quadcopter. In doing so, we will describe the UAV, types of UAVs, including an overview, market structure, various types, and UAV aerodynamics.</p>",
+  "certificate_issuer": "vignan_hs.png",
+  "key_major_takeaways": [
+    "Design UAV",
+    "Understand what analysis are required to ensure the crash test",
+    "Understand a wide variety types of UAV"
+  ],
+  "certificate_issuer_name": "Vignan (Deemed to be University)"
+}
